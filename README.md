@@ -24,7 +24,8 @@ Conceitos básicos de FLOSS, aspectos econômicos e legais, organização social
 - Aulas síncronas, invertidas, com (pré-) leitura e discussão durante os encontros semanais.
 - Mini-palestras (20-30 minutos) com brasileiras/os da comunidade FLOSS, seguidas por perguntas e discussões.
 - Engajamento e contribuição em projeto FLOSS escolhido pelo estudante, com tutoria.
-- Uso contínuo da plataforma GitHub para mediar atividades.
+- Uso contínuo da plataforma GitHub para mediar atividades
+- Diários e apresentações _stand-up_ 
 
 ## Atividades e Avaliação
 
@@ -33,7 +34,9 @@ Conceitos básicos de FLOSS, aspectos econômicos e legais, organização social
 - Participação nas mini-palestras (durante)
 - Resenhas sobre as mini-palestras (pós)
 - Atividades práticas no projeto FLOSS
-- Apresentação contínua e compartilhamento com a turma da experiência com o FLOSS escolhido com a turma.
+  - Diários 
+- Apresentação contínua e compartilhamento com a turma da experiência com o FLOSS escolhido com a turma
+  - Relatório/stand-up
 
 ## Calendário da UFBA
 
