@@ -80,4 +80,4 @@ Crônica da história do movimento _open source_ na visão de alguns 'atores' e 
 + [Producing Open Source Software by Karl Fogel](https://producingoss.com/) e [videos](https://producingoss.com/#presentations)
 + Free for All by Peter Wayner
 + Free as in Freedom by Sam Williams
-+ Open Sources by Chris DiBona and Sam Ockman
++ [Open Sources[(https://www.oreilly.com/library/view/open-sources/1565925823/) by Chris DiBona and Sam Ockman
