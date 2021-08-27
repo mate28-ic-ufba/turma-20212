@@ -69,7 +69,7 @@ Data | Semana | Tópico
 
 ## Leituras recomendadas
 
-### Leituras essentiais (reproduzido do texto original de https://opensource.com/resources/ebooks)
+### Leituras essenciais (reproduzido do texto original de https://opensource.com/resources/ebooks)
 
 Crônica da história do movimento _open source_ na visão de alguns 'atores' e autores prolíficos.
 
@@ -81,3 +81,8 @@ Crônica da história do movimento _open source_ na visão de alguns 'atores' e 
 + Free for All by Peter Wayner
 + Free as in Freedom by Sam Williams
 + Open Sources by Chris DiBona and Sam Ockman
+
+### Leituras de primavera 
+
++ [2016](https://opensource.com/life/16/6/2016-summer-reading-list)
++ [Outras primaveras](https://opensource.com/resources/ebooks)
