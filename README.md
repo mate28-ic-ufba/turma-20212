@@ -67,7 +67,8 @@ Data | Semana | Tópico
 26/11/2021 | 16 | Aspectos Econômicos de FLOSS
 03/12/2021 | 17 | Encerramento
 
-## Leituras recomendadas
+
+## Leituras 
 
 ### Leituras essenciais (reproduzido do texto original de https://opensource.com/resources/ebooks)
 
@@ -82,7 +83,11 @@ Crônica da história do movimento _open source_ na visão de alguns 'atores' e 
 + Free as in Freedom by Sam Williams
 + Open Sources by Chris DiBona and Sam Ockman
 
+### 
+
 ### Leituras de primavera 
 
 + [2016](https://opensource.com/life/16/6/2016-summer-reading-list)
 + [Outras primaveras](https://opensource.com/resources/ebooks)
++ 2021
+   + [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#summary)
