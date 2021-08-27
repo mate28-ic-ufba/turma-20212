@@ -67,3 +67,17 @@ Data | Semana | Tópico
 26/11/2021 | 16 | Aspectos Econômicos de FLOSS
 03/12/2021 | 17 | Encerramento
 
+## Leituras recomendadas
+
+### Leituras essentiais (reproduzido do texto original de https://opensource.com/resources/ebooks)
+
+Crônica da história do movimento _open source_ na visão de alguns 'atores' e autores prolíficos.
+
++ The Cathedral and the Bazaar by Eric S. Raymond
++ Free Software, Free Society by Richard M. Stallman
++ Just for Fun by Linus Torvalds and David Diamond
++ Rebel Code by Glyn Moody
++ [Producing Open Source Software by Karl Fogel](https://producingoss.com/) e [videos](https://producingoss.com/#presentations)
++ Free for All by Peter Wayner
++ Free as in Freedom by Sam Williams
++ Open Sources by Chris DiBona and Sam Ockman
