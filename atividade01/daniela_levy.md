@@ -22,13 +22,13 @@
 - O tamanho do projeto tem crescido nas últimas versões?
   - Sim, o tamanho do projeto aumentou nas últimas versões
 
-Versão   | LOC
---------- | ------
-0.1.0 | 2413
-0.2.0 | 3187
-0.3.0 | 3736
-0.4.0 | 7004 
-1.0.0 | 8206
+Versão   | Data de lançamento | LOC |
+--------- | ------| ------
+0.1.0 | 8 May 2017 | 2413
+0.2.0 | 28 Jan 2018 | 3187
+0.3.0 | 29 May 2018 | 3736
+0.4.0 | 11 Jan 2019 | 7004 
+1.0.0 | 1 May 2019 | 8206
 
 - Existe atividade recente no projeto?
   - O projeto está arquivado e em mode de leitura apenas. O último commit foi em Maio de 2019
