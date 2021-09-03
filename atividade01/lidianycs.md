@@ -18,7 +18,7 @@
 7. O tamanho do projeto tem crescido nas últimas versões?
     - Não
 8. Existe atividade recente no projeto?
-    - Não 
+    - Não. Os últimos commits foram feitos há 3 anos.
 9. Existe colaboração de empresas no projeto?
     - Não
 10. Quais as tecnologias usadas?
