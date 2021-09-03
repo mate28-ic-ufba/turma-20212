@@ -34,6 +34,7 @@
     - Sim - 02/09/2021
 9. Existe colaboração de empresas no projeto?
     - Sim
+        - VMworld
 10. Quais as tecnologias usadas?
     - Java
     - HTML
@@ -41,3 +42,6 @@
     - Shell
     - JavaScript
     - Groovy
+
+11. Colaboradores
+    - https://spring.io/team
