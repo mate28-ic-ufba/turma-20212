@@ -13,7 +13,8 @@
 5. Qual a licença do projeto?
     - MIT
 6. Qual o tamanho do projeto (linhas de código, classes)?
-    - 1253 linhdas, 14 files
+    - 1253 lines, 14 files, 180 comments
+    
 7. O tamanho do projeto tem crescido nas últimas versões?
     - Nao
 8. Existe atividade recente no projeto?
