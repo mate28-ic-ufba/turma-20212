@@ -4,6 +4,18 @@
 
 **Foco:** Práticas e Reflexões sobre Contribuição em Projetos de Software Livre
 
+  * [Ementa](#ementa)
+  * [Programa](#programa)
+  * [Métodos](#m-todos)
+  * [Atividades e Avaliação](#atividades-e-avalia--o)
+  * [Calendário da UFBA](#calend-rio-da-ufba)
+  * [Plano de Aulas (pode sofrer ajustes)](#plano-de-aulas--pode-sofrer-ajustes-)
+  * [Leituras](#leituras)
+    + [Leituras essenciais (reproduzido do texto original de](#leituras-essenciais--reproduzido-do-texto-original-de)
+    + [Leituras de primavera](#leituras-de-primavera)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## Ementa
 
 Apresentação de práticas e reflexões em grupo sobre contribuição em projetos de Software Livre, incentivando a participação do aluno em projetos de Software Livre.
