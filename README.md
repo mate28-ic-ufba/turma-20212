@@ -59,25 +59,25 @@ Aulas às sextas-feiras, de 13:00 às 15:45h
 
 ## Plano de Aulas (pode sofrer ajustes)
 
-Data | Semana | Tópico
--- | -- | --
-13/08/2021 | 1 | Apresentação da disciplina
-20/08/2021 | 2 | Apresentação da disciplina; O que é FL/OSS?
-27/08/2021 | 3 | Desenvolvimento de projetos FLOSS
-03/09/2021 | 4 | Seleção de projetos FLOSS
-10/09/2021 | 5 | Familiarização com projetos FLOSS
-17/09/2021 | 6 | Aspectos Legais de FLOSS
-24/09/2021 | 7 | Contribuição em FLOSS 1
-01/10/2021 | 8 | Open Science, OSS, Sustainability
-08/10/2021 | 9 | Contribuição em FLOSS 2
-15/10/2021 | 10 | Organização Social de FLOSS
-22/10/2021 | 11 | Contribuição em FLOSS 3
-29/10/2021 | 12 | Gerência de projetos FLOSS
-05/11/2021 | 13 | Contribuição em projetos FLOSS 4
-12/11/2021 | 14 | Garantia da Qualidade em projetos FLOSS
-19/11/2021 | 15 | Contribuição em projetos FLOSS 5
-26/11/2021 | 16 | Aspectos Econômicos de FLOSS
-03/12/2021 | 17 | Encerramento
+Data | Semana | Tópico | Quem?
+-- | -- | -- | --
+13/08/2021 | 1 | Apresentação da disciplina | --
+20/08/2021 | 2 | Apresentação da disciplina; O que é FL/OSS? | --
+27/08/2021 | 3 | Desenvolvimento de projetos FLOSS | --
+03/09/2021 | 4 | Seleção de projetos FLOSS | --
+10/09/2021 | 5 | Familiarização com projetos FLOSS | --
+17/09/2021 | 6 | Aspectos Legais de FLOSS | --
+24/09/2021 | 7 | Contribuição em FLOSS 1 | --
+01/10/2021 | 8 | Open Science, OSS, Sustainability | Prof. Christina von Flach
+08/10/2021 | 9 | Contribuição em FLOSS 2 | --
+15/10/2021 | 10 | Organização Social de FLOSS | --
+22/10/2021 | 11 | Contribuição em FLOSS 3 | --
+29/10/2021 | 12 | Gerência de projetos FLOSS | Prof. Paulo Meirelles (UFABC)
+05/11/2021 | 13 | Contribuição em projetos FLOSS 4 | --
+12/11/2021 | 14 | Garantia da Qualidade em projetos FLOSS | Prof. Rodrigo Rocha (UFBA)
+19/11/2021 | 15 | Contribuição em projetos FLOSS 5 | --
+26/11/2021 | 16 | Aspectos Econômicos de FLOSS | --
+03/12/2021 | 17 | Encerramento | --
 
 
 ## Leituras 
