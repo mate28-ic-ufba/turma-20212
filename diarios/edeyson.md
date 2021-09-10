@@ -14,5 +14,5 @@ Documentado em: https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividad
 ## 10/09/21
 + Escolha do projeto FLOSS a contribuir
 
-Foi selecionado o https://github.com/TheAlgorithms/C por ser mais familiar, por abordar recursos educacionais e programação e ter abertura a novos participantes.
+Foi selecionado o https://github.com/TheAlgorithms por ser mais familiar, por abordar recursos educacionais e programação e ter abertura a novos participantes.
 
