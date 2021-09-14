@@ -26,7 +26,14 @@ Após levantar algumas possíveis aplicações, fiz a opção pelo museScore, so
 A decisão final se deu após confirmar a existência de uma ativa comunidade e receptividade para colaborações. Além disso, fui movida pelo desejo que retribuir o apoio que o software me proporcionou, pois utilizei o mesmo ativamente durante uma graduação em música, por cerca de seis anos.
 
 
-<!-- **Informar como se dará a colaboração com o FLOSS escolhido.**
-Após analisar as opções disponíveis -->
+## 12/09/2021 
 
+Após analisar as opções disponíveis, optei por realizar atividades de tradução.
+
+
+## 14/09/2021 
+
+Entrei em contato com a comunidade me apresentando e informando sobre o início das atividades de colaboração com traduções. 
+Aproveitei a ocasião e informei um link inválido que encontrei na página do handbook do software. Apesar de já existir uma versão traduzida do handbook, o link apontava para a versão em inglês do documento.
+O retorno ao meu contato foi imediato e realizado por alguém do "Team" do MuseScore, que prontamente realizou a correção no link informado.
 
