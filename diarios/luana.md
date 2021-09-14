@@ -11,5 +11,12 @@
 * Motivos: 
   1. O projeto é desenvolvido na linguagem Java e utiliza a biblioteca _Java_Parser_ para realizar a análise estática de códigos-fonte. Possuo conhecimento sobre o uso dessas tecnologias, o que pode facilitar meu aprendizado e contribuibuições no projeto. 
   2. O repositório do projeto no GitHub possui issues com label `good first issue`, o que pode ser um bom ponto de partida para contribuir com o projeto.
-  3. Conhecendo o FindBugs (antecessor do SpotBugs), penso que posso reutilizar ou aprender com suas features para evoluir a ferramenta [JNose Test](https://github.com/arieslab/jnose) (uso no projeto de doutorado).      
+  3. Conhecendo o FindBugs, antecessor do SpotBugs, penso que posso reutilizar ou aprender com suas features para evoluir a ferramenta [JNose Test](https://github.com/arieslab/jnose) (uso no projeto de doutorado).      
 
+## 14/09/21
+* Leitura dos textos sobre Licenças de Software.
+* Anotações:
+  1. O SpotBugs é distribuído sob a licença LGPL 2.1 (Lesser GNU Public License LGPL 2.1).
+  2. LGPL - Copyleft: qualquer trabalho derivado deve ser distribuído sob a mesma licença que o original. 
+  3. A JNose é distribuída sob a licença GPL 3.0, então eu posso reutilizar trechos do SpotBugs sob licença GPL 3.0. (?) 
+  4. Curiosidade sobre interações com licensas usadas em outros artefatos. Por exemplo, creative-commons: "While we recommend against using a CC license on software itself, CC licenses may be used for software documentation, as well as for separate artistic elements". (?)
