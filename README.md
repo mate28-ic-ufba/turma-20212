@@ -66,11 +66,11 @@ Data | Semana | Tópico | Quem?
 27/08/2021 | 3 | Desenvolvimento de projetos FLOSS | --
 03/09/2021 | 4 | Seleção de projetos FLOSS | --
 10/09/2021 | 5 | Familiarização com projetos FLOSS | --
-17/09/2021 | 6 | Aspectos Legais de FLOSS | --
+17/09/2021 | 6 | Aspectos Legais de FLOSS | Nelson Lago 
 24/09/2021 | 7 | Contribuição em FLOSS 1 | --
 01/10/2021 | 8 | Open Science, OSS, Sustainability | Prof. Christina von Flach
 08/10/2021 | 9 | Contribuição em FLOSS 2 | --
-15/10/2021 | 10 | Organização Social de FLOSS | --
+15/10/2021 | 10 | Aspectos Sociais de FLOSS | --
 22/10/2021 | 11 | Contribuição em FLOSS 3 | --
 29/10/2021 | 12 | Gerência de projetos FLOSS | Prof. Paulo Meirelles (UFABC)
 05/11/2021 | 13 | Contribuição em projetos FLOSS 4 | --
