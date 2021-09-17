@@ -34,7 +34,7 @@ Conceitos básicos de FLOSS, aspectos econômicos e legais, organização social
 ## Métodos
 
 - Aulas síncronas, invertidas, com (pré-) leitura e discussão durante os encontros semanais.
-- Mini-palestras (20-30 minutos) com brasileiras/os da comunidade FLOSS, seguidas por perguntas e discussões.
+- Mini-palestras (30 a 45 minutos) com brasileiras/os da comunidade FLOSS, seguidas por perguntas e discussões.
 - Engajamento e contribuição em projeto FLOSS escolhido pelo estudante, com tutoria.
 - Uso contínuo da plataforma GitHub para mediar atividades
 - Diários e apresentações _stand-up_ 
