@@ -66,7 +66,7 @@ Data | Semana | Tópico | Quem?
 27/08/2021 | 3 | Desenvolvimento de projetos FLOSS | --
 03/09/2021 | 4 | Seleção de projetos FLOSS | --
 10/09/2021 | 5 | Familiarização com projetos FLOSS | --
-17/09/2021 | 6 | Aspectos Legais de FLOSS | Nelson Lago 
+17/09/2021 | 6 | [Aspectos Legais de FLOSS](keynotes/speakers.md#licen%C3%A7as-de-software) | [Nelson Lago](keynotes/speakers.md#nelson-lago)
 24/09/2021 | 7 | Contribuição em FLOSS 1 | --
 01/10/2021 | 8 | Open Science, OSS, Sustainability | Prof. Christina von Flach
 08/10/2021 | 9 | Contribuição em FLOSS 2 | --
@@ -78,7 +78,6 @@ Data | Semana | Tópico | Quem?
 19/11/2021 | 15 | Contribuição em projetos FLOSS 5 | --
 26/11/2021 | 16 | Aspectos Econômicos de FLOSS | --
 03/12/2021 | 17 | Encerramento | --
-
 
 ## Leituras 
 
