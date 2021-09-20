@@ -70,7 +70,7 @@ Data | Semana | Tópico | Quem?
 24/09/2021 | 7 | Contribuição em FLOSS 1 | --
 01/10/2021 | 8 | Open Science, OSS, Sustainability | Prof. Christina von Flach
 08/10/2021 | 9 | Contribuição em FLOSS 2 | --
-15/10/2021 | 10 | Aspectos Sociais de FLOSS | --
+15/10/2021 | 10 | Aspectos Sociais de FLOSS | [Antonio Terceiro](keynotes/speakers.md#antonio-terceiro)
 22/10/2021 | 11 | Contribuição em FLOSS 3 | --
 29/10/2021 | 12 | Gerência de projetos FLOSS | Prof. Paulo Meirelles (UFABC)
 05/11/2021 | 13 | Contribuição em projetos FLOSS 4 | --
