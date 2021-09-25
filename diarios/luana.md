@@ -20,3 +20,8 @@
   2. LGPL - Copyleft: qualquer trabalho derivado deve ser distribuído sob a mesma licença que o original. 
   3. A JNose é distribuída sob a licença GPL 3.0, então eu posso reutilizar trechos do SpotBugs sob licença GPL 3.0. (?) 
   4. Curiosidade sobre interações com licensas usadas em outros artefatos. Por exemplo, creative-commons: "While we recommend against using a CC license on software itself, CC licenses may be used for software documentation, as well as for separate artistic elements". (?)
+
+## 24/09/21 e 25/09/21
+*  Realização da [Atividade 04](https://github.com/mate28-ic-ufba/turma-20212/tree/main/atividades/luana/atividade04.md) - Quais as principais características do projeto OSS escolhido?
+*  Como o SpotBugs foi desenvolvido com base no FindBugs, busquei pelo intervalo onde um foi descontinuado e o outro teve início. 
+*  Utilizei a ferramenta [CK](https://github.com/mauricioaniche/ck) para contabilizar a quantidade de classes, linhas, e métodos.
