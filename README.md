@@ -94,7 +94,6 @@ Crônica da história do movimento _open source_ na visão de alguns 'atores' e 
 + Free as in Freedom by Sam Williams
 + Open Sources by Chris DiBona and Sam Ockman
 
-### 
 
 ### Leituras de primavera 
 
@@ -102,3 +101,4 @@ Crônica da história do movimento _open source_ na visão de alguns 'atores' e 
 + [Outras primaveras](https://opensource.com/resources/ebooks)
 + 2021
    + [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#summary)
+   + [The Open Source Way](https://www.theopensourceway.org/book/)
