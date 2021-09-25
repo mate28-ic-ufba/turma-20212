@@ -1,6 +1,6 @@
 ## Parte I - Descrição do projeto
 
-1. Nome: Star_book
+1. Nome: SpotBugs
 2. Links:
    1. Website: https://spotbugs.github.io/
    2. Repo: https://github.com/spotbugs/spotbugs
