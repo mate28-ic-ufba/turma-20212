@@ -25,18 +25,16 @@ Após levantar algumas possíveis aplicações, fiz a opção pelo museScore, so
 
 A decisão final se deu após confirmar a existência de uma ativa comunidade e receptividade para colaborações. Além disso, fui movida pelo desejo que retribuir o apoio que o software me proporcionou, pois utilizei o mesmo ativamente durante uma graduação em música, por cerca de seis anos.
 
+## 17/09/2021 
 
-<!-- ## 12/09/2021 
+**Palestra com Nelson Posse Lago**
 
-Após analisar as opções disponíveis, optei por realizar atividades de tradução.
+Algumas impressões sobre a palestra foram registradas no arquivo "atividade_03.md", dentro da minha pasta de trabalho.
 
 
-## 14/09/2021 
+## 24/09/2021 
 
-Entrei em contato com a comunidade me apresentando e informando sobre o início das atividades de colaboração com traduções. 
-Aproveitei a ocasião e informei um bug no site; link inválido que encontrei na página do handbook do software. Apesar de já existir uma versão traduzida do handbook, o link apontava para a versão em inglês do documento.
-O retorno ao meu contato foi imediato e realizado por alguém da Equipe do MuseScore, que prontamente realizou a correção no link informado.
+**Realização das Atividades 04 e 05**
 
-## 15/09/2021 -->
-
+Realizei um reconhecimento técnico do FLOSS que escolhi para trabalhar durante o semestre, e estabeleci contato com a comunidade. As informações, o processo e os resultados estão descritos nos arquivos "atividade_04.md" "atividade_05.md", ambos dentro da minha pasta de trabalho.
 
