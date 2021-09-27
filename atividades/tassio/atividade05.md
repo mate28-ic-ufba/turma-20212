@@ -50,4 +50,6 @@ Faça uma contribuição ao projeto e envie um patch.
  -   https://github.com/beekeeper-studio/beekeeper-studio/pull/817
 
 Qual foi o feedback que você recebeu dos desenvolvedores do projeto?
- - Aguardando...
+ - Alteração foi aceita.
+   - https://github.com/beekeeper-studio/beekeeper-studio/pull/817#issuecomment-928039610
+   - https://github.com/beekeeper-studio/beekeeper-studio/blob/master/README.pt-br.md
