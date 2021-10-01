@@ -67,9 +67,9 @@ Data | Semana | Tópico | Quem?
 03/09/2021 | 4 | Seleção de projetos FLOSS | --
 10/09/2021 | 5 | Familiarização com projetos FLOSS | --
 17/09/2021 | 6 | [Aspectos Legais de FLOSS](keynotes/speakers.md#licen%C3%A7as-de-software) | [Nelson Lago](keynotes/speakers.md#nelson-lago)
-24/09/2021 | 7 | Contribuição em FLOSS 1 | --
+24/09/2021 | 7 | Contribuição em FLOSS 1: Documentação | --
 01/10/2021 | 8 | Open Science, OSS, Sustainability | Prof. Christina von Flach
-08/10/2021 | 9 | Contribuição em FLOSS 2 | --
+08/10/2021 | 9 | Contribuição em FLOSS: Traduação | --
 15/10/2021 | 10 | Aspectos Sociais de FLOSS | [Antonio Terceiro](keynotes/speakers.md#antonio-terceiro)
 22/10/2021 | 11 | Contribuição em FLOSS 3 | --
 29/10/2021 | 12 | Gerência de projetos FLOSS | Prof. Paulo Meirelles (UFABC)
@@ -94,7 +94,6 @@ Crônica da história do movimento _open source_ na visão de alguns 'atores' e 
 + Free as in Freedom by Sam Williams
 + Open Sources by Chris DiBona and Sam Ockman
 
-### 
 
 ### Leituras de primavera 
 
@@ -102,3 +101,4 @@ Crônica da história do movimento _open source_ na visão de alguns 'atores' e 
 + [Outras primaveras](https://opensource.com/resources/ebooks)
 + 2021
    + [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#summary)
+   + [The Open Source Way](https://www.theopensourceway.org/book/)

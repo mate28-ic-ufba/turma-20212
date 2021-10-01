@@ -13,6 +13,9 @@ Sublime Notebook:
 + Escolha do projeto FLOSS a contribuir
 
 Opções escolhidas até o momento:
+
 1.JabRef https://github.com/JabRef/jabref
+
+
 2.TEAMMATES https://github.com/TEAMMATES
 
