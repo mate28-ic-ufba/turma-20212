@@ -25,3 +25,9 @@
 *  Realização da [Atividade 04](https://github.com/mate28-ic-ufba/turma-20212/tree/main/atividades/luana/atividade04.md) - Quais as principais características do projeto OSS escolhido?
 *  Como o SpotBugs foi desenvolvido com base no FindBugs, busquei pelo intervalo onde um foi descontinuado e o outro teve início. 
 *  Utilizei a ferramenta [CK](https://github.com/mauricioaniche/ck) para contabilizar a quantidade de classes, linhas, e métodos.
+
+## 01/10/2021
+* Realização da primeira parte da [Atividade 05](https://github.com/mate28-ic-ufba/turma-20212/tree/main/atividades/luana/atividade05.md).
+* Procurei pela documentação de usuários e contribuidores para responder as questões.
+* Identifiquei que posso contribuir com o suporte da documentação em PT-BR.
+* Aprender sobre as ferramentas utilizadas para gerar a documentação.
