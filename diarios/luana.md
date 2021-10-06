@@ -46,6 +46,7 @@
 * Solução de como integrar o findsecbugs com SpotBugs é similar a: https://github.com/find-sec-bugs/find-sec-bugs/wiki/Maven-configuration.
 * Execução da ferramenta: ![GitHub Logo](https://drive.google.com/uc?export=view&id=1-RdZfB1p3v9ZC-3Ra2AlWo5OAhqqjwMX)
 * Aprendizado sobre as ferramentas utilizadas para gerar a documentação. Estou seguindo o tutorial [ReadTheDocs](https://docs.readthedocs.io/en/stable/tutorial/).
-  - [X] Read the docs tutorial: criação do meu [projeto](https://github.com/luana-martins/ReadTheDocs.git), customização da build e versionamento.
+  - [X] Read the docs tutorial: fork do projeto [readthedocs](https://github.com/luana-martins/ReadTheDocs.git), customização da build e versionamento.
   - [ ] Getting started with Sphinx.
   - [ ] How-to guides.
+  
