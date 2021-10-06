@@ -26,8 +26,26 @@
 *  Como o SpotBugs foi desenvolvido com base no FindBugs, busquei pelo intervalo onde um foi descontinuado e o outro teve início. 
 *  Utilizei a ferramenta [CK](https://github.com/mauricioaniche/ck) para contabilizar a quantidade de classes, linhas, e métodos.
 
-## 01/10/2021
+## 01/10/21
+* Participação CBSoft - OpenScienSE (27 de setembro a 01 de outubro).
 * Realização da primeira parte da [Atividade 05](https://github.com/mate28-ic-ufba/turma-20212/tree/main/atividades/luana/atividade05.md).
 * Procurei pela documentação de usuários e contribuidores para responder as questões.
-* Identifiquei que posso contribuir com o suporte da documentação em PT-BR.
+* Identifiquei que posso contribuir com o suporte da documentação em PT-BR. Atualização: focarei nas issues sobre documentação.
 * Aprender sobre as ferramentas utilizadas para gerar a documentação.
+
+## 04/10/21
+* Identifiquei algumas issues sobre documentação (good first issue) nas quais posso trabalhar.
+  - [Issue 1164](https://github.com/spotbugs/spotbugs/issues/1164): Adição de exemplos sobre como usar regras findsecbugs no SpotBugs.
+  - [Issue 540](https://github.com/spotbugs/spotbugs/issues/540): Configuração maven para utilização das regras findsecbugs no SpotBugs.
+
+## 06/10/21
+* Investigação da issue 540:
+  - Seleção do projeto [commons-io](https://github.com/apache/commons-io) para executar o SpotBugs e entender como funciona.
+  - Configuração do pom.xml para a adição do SpotBugs.
+  - Configuração do pom.xml para adição do plugin findsecbugs.
+* Solução de como integrar o findsecbugs com SpotBugs é similar a: https://github.com/find-sec-bugs/find-sec-bugs/wiki/Maven-configuration.
+* Execução da ferramenta: ![GitHub Logo](https://drive.google.com/uc?export=view&id=1-RdZfB1p3v9ZC-3Ra2AlWo5OAhqqjwMX)
+* Aprendizado sobre as ferramentas utilizadas para gerar a documentação. Estou seguindo o tutorial [ReadTheDocs](https://docs.readthedocs.io/en/stable/tutorial/).
+  - [X] Read the docs tutorial: criação do meu [projeto](https://github.com/luana-martins/ReadTheDocs.git), customização da build e versionamento.
+  - [ ] Getting started with Sphinx.
+  - [ ] How-to guides.
