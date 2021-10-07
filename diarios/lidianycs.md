@@ -31,3 +31,6 @@ Opções escolhidas até o momento:
 
 + Caracterização do projeto FLOSS a contribuir:
 https://github.com/TEAMMATES
+
+## 07/10/21
++ Atividade 05: análise da documentação do projeto TEAMMATES e estudo para futura contribuição.
