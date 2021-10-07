@@ -41,4 +41,4 @@ O destaque da apresentação foi na classificação das licenças em 3 grupos, f
 
 ## 07/10/21
 
-- Estou mais perdido que cego em tiroteio....
+- Estou mais perdido que cego em tiroteio!!!
