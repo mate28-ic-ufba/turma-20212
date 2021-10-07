@@ -38,3 +38,7 @@ O destaque da apresentação foi na classificação das licenças em 3 grupos, f
 - Participamos de uma apresentação remota sobre Licenças que foi bastante esclarecedora para dirimir uma série de dúvidas do que eu já havia lido no opensource.org e no fsf.org.
 
 - O destaque da apresentação foi na classificação das licenças em 3 grupos, focando em permissividade e derivação. A explicação foi bem didática para que saibamos escolher e reconhecer quando e como selecionar e usar licenças.
+
+## 07/10/21
+
+- Estou mais perdido que cego em tiroteio....
