@@ -24,8 +24,35 @@
 ## Parte II - Contribuição 
 
 9. Escolha uma forma/tipo de documentação.
-   - Documentação do usuário - suporte em PT-BR.
-11. Faça uma contribuição ao projeto e envie um patch.
-   - X
-13. Qual foi o feedback que você recebeu dos desenvolvedores do projeto?
-   - X
+   - Documentação do usuário - [Issue 540](https://github.com/spotbugs/spotbugs/issues/540).
+10. Faça uma contribuição ao projeto e envie um patch.
+    - Vou descrever como integrar as findsecbugs regras do findsecbugs no SpotBugs.
+    - Estou aprendendo as tecnologias necessárias, mas solução consiste em descrever o trecho de código a ser adicionado no `pom.xml`:
+    ```
+    <plugin>
+      <groupId>com.github.spotbugs</groupId>
+      <artifactId>spotbugs-maven-plugin</artifactId>
+      <version>4.2.0</version>
+      <configuration>
+        <effort>Max</effort>
+        <threshold>Low</threshold>
+        <xmlOutput>true</xmlOutput>
+        <plugins>
+          <plugin>
+            <groupId>com.h3xstream.findsecbugs</groupId>
+            <artifactId>findsecbugs-plugin</artifactId>
+            <version>1.10.1</version>
+          </plugin>
+        </plugins>
+      </configuration>
+      <executions>
+        <execution>
+          <goals>
+            <goal>check</goal>
+          </goals>
+        </execution>
+      </executions>
+    </plugin>
+    ```
+11. Qual foi o feedback que você recebeu dos desenvolvedores do projeto?
+    - Ainda não submeti o pull request
