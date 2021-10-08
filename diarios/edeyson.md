@@ -42,3 +42,12 @@ O destaque da apresentação foi na classificação das licenças em 3 grupos, f
 ## 07/10/21
 
 - Estou mais perdido que cego em tiroteio!!!
+- Descobri como atualizar o Fork e, através dele, dar commit!!!! Fantástico...
+- Me empolguei novamente...
+
+- Consegui contribuir com documentação via Weblate em vários projetos. Iniciei pelo TheAlgorithms, mas a ferramenta me sugere contribuir com outros projetos. Fiz sugestões de tradução para português e inglês :-)
+- Fiz minha primeira contribuição de código e documentação.
+
+
+## 08/10/21
+- Fim meu pull request para alteração de código e adição de documentação. Aguardando os revisores.
