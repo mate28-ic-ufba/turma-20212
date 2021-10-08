@@ -69,7 +69,7 @@ Data | Semana | Tópico | Quem?
 17/09/2021 | 6 | [Aspectos Legais de FLOSS](keynotes/speakers.md#licen%C3%A7as-de-software) | [Nelson Lago](keynotes/speakers.md#nelson-lago)
 24/09/2021 | 7 | Contribuição em FLOSS 1: Documentação | --
 01/10/2021 | 8 | Open Science, OSS, Sustainability | Prof. Christina von Flach
-08/10/2021 | 9 | Contribuição em FLOSS: Traduação | --
+08/10/2021 | 9 | Contribuição em FLOSS: Tradução | --
 15/10/2021 | 10 | Aspectos Sociais de FLOSS | [Antonio Terceiro](keynotes/speakers.md#antonio-terceiro)
 22/10/2021 | 11 | Contribuição em FLOSS 3 | --
 29/10/2021 | 12 | Gerência de projetos FLOSS | Prof. Paulo Meirelles (UFABC)
