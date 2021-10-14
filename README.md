@@ -64,20 +64,20 @@ Data | Semana | Tópico | Quem?
 13/08/2021 | 1 | Apresentação da disciplina | --
 20/08/2021 | 2 | Apresentação da disciplina; O que é FL/OSS? | --
 27/08/2021 | 3 | Desenvolvimento de projetos FLOSS | --
-03/09/2021 | 4 | Seleção de projetos FLOSS | --
-10/09/2021 | 5 | Familiarização com projetos FLOSS | --
+03/09/2021 | 4 | __Seleção__ de projetos FLOSS | --
+10/09/2021 | 5 | __Familiarização__ com projetos FLOSS | --
 17/09/2021 | 6 | [Aspectos Legais de FLOSS](keynotes/speakers.md#licen%C3%A7as-de-software) | [Nelson Lago](keynotes/speakers.md#nelson-lago)
-24/09/2021 | 7 | Contribuição em FLOSS 1: Documentação | --
-01/10/2021 | 8 | Open Science, OSS, Sustainability | Prof. Christina von Flach
-08/10/2021 | 9 | Contribuição em FLOSS: Tradução | --
+24/09/2021 | 7 | Contribuição em FLOSS 1: __Documentação__ | --
+01/10/2021 | 8 | Open Science, Open Source Software | Prof. Christina von Flach
+08/10/2021 | 9 | Contribuição em FLOSS: __Tradução__ | --
 15/10/2021 | 10 | Aspectos Sociais de FLOSS | [Antonio Terceiro](keynotes/speakers.md#antonio-terceiro)
-22/10/2021 | 11 | Contribuição em FLOSS 3 | --
-29/10/2021 | 12 | Gerência de projetos FLOSS | Prof. Paulo Meirelles (UFABC)
-05/11/2021 | 13 | Contribuição em projetos FLOSS 4 | --
+22/10/2021 | 11 | Contribuição em FLOSS 3: __Revisão__ | --
+29/10/2021 | 12 | Gerência de projetos FLOSS: DevOps | Prof. Paulo Meirelles (UFABC)
+05/11/2021 | 13 | Contribuição em projetos FLOSS 4: __Triagem de Bugs__ | --
 12/11/2021 | 14 | Garantia da Qualidade em projetos FLOSS | Prof. Rodrigo Rocha (UFBA)
-19/11/2021 | 15 | Contribuição em projetos FLOSS 5 | --
-26/11/2021 | 16 | Aspectos Econômicos de FLOSS | --
-03/12/2021 | 17 | Encerramento | --
+19/11/2021 | 15 | Contribuição em projetos FLOSS 5: __Resolução de Bugs__ | --
+26/11/2021 | 16 | Aspectos Econômicos de FLOSS: Ecossistemas | --
+03/12/2021 | 17 | Encerramento | Apresentação e confraternização
 
 ## Leituras 
 
