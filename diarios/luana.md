@@ -49,4 +49,3 @@
   - [X] Read the docs tutorial: fork do projeto [readthedocs](https://github.com/luana-martins/ReadTheDocs.git), customização da build e versionamento.
   - [ ] Getting started with Sphinx.
   - [ ] How-to guides.
-  
