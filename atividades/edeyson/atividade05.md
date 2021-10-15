@@ -60,5 +60,16 @@
 **Parte 2**
 
 -   Escolha uma forma/tipo de documentação.
+	- Fiz uma alteração num código para ficar mais legível e adicionei sua documentação interna.
+	- Me baseei em outras documentações como exemplo.
+
+
 -   Faça uma contribuição ao projeto e envie um patch.
+	- Alterei o código https://github.com/TheAlgorithms/C/blob/master/leetcode/src/1.c
+	- Adicionei a documentação ao código.
+
+
 -   Qual foi o feedback que você recebeu dos desenvolvedores do projeto?
+	- Um dos comentários foi: Missing parameters (`nums`, `nums_size`, `target`, `return_size`) documentation.
+		- Como a maioria dos códigos não documenta argumentos, eu não o fiz.
+		- Fiz a nova documentação e submeti. Estou aguardando nova resposta.
