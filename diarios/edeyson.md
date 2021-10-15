@@ -51,3 +51,7 @@ O destaque da apresentação foi na classificação das licenças em 3 grupos, f
 
 ## 08/10/21
 - Fim meu pull request para alteração de código e adição de documentação. Aguardando os revisores.
+
+## 12 a 15/10/21
+- Nesta semana eu interagi pelo Discord para compreender melhor a comunicação do grupo. Recebi a resposta, mas fiquei bastante inseguro em como atender à requisição de alteração da documentação.
+- Fia a alteração da documentação sugerida pelos desenvolvedores e estou aguardando nova interação. 
