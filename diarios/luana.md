@@ -48,7 +48,7 @@
 * Aprendizado sobre as ferramentas utilizadas para gerar a documentação. Estou seguindo o tutorial [ReadTheDocs](https://docs.readthedocs.io/en/stable/tutorial/).
   - [X] Read the docs tutorial: fork do projeto [readthedocs](https://github.com/luana-martins/ReadTheDocs.git), customização da build e versionamento.
   - [X] Getting started with Sphinx.
-  - [ ] How-to guides.
+  - [X] How-to guides.
 
 ## 14/10/21
 - Leitura de textos relacionados ao tema "Aspectos Sociais de FLOSS".
@@ -56,4 +56,9 @@
 
 ## 18/10/21
 - ThrawnCA contribuidor do SpotBugs respondeu ao meu comentário na issue 540. 
-- Terminei o passo "Getting started with Sphinx" e logo estarei pronta para fazer o PR.
+- Terminei o os passos que estabeleci para aprender sobre o ReadTheDocs.
+
+## 19/10/21
+- Criei uma documentação para a ferramenta [JNose Test](https://jnose.readthedocs.io/en/latest/index.html) usando o ReadTheDocs e submeti um PR.
+- Obs.: como a JNose Teste é desenvolvida pelo grupo de pesquisa do qual faço parte, me senti mais confortável em treinar nele primeiro para depois fazer a correção da issue do SpotBugs. 
+Fiquei contente com o resultado e estou me sentindo mais segura para contribuir com o SpotBugs :smiley:
