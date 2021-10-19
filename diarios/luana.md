@@ -47,9 +47,13 @@
 * Execução da ferramenta: ![SpotBugsExecution](https://drive.google.com/uc?export=view&id=1-RdZfB1p3v9ZC-3Ra2AlWo5OAhqqjwMX)
 * Aprendizado sobre as ferramentas utilizadas para gerar a documentação. Estou seguindo o tutorial [ReadTheDocs](https://docs.readthedocs.io/en/stable/tutorial/).
   - [X] Read the docs tutorial: fork do projeto [readthedocs](https://github.com/luana-martins/ReadTheDocs.git), customização da build e versionamento.
-  - [ ] Getting started with Sphinx.
+  - [X] Getting started with Sphinx.
   - [ ] How-to guides.
 
 ## 14/10/21
 - Leitura de textos relacionados ao tema "Aspectos Sociais de FLOSS".
-- Elaboração de perguntas para a apresentação do Antônio Terceiro.
+- Elaboração de perguntas para a apresentação do Antônio Terceiro. 
+
+## 18/10/21
+- ThrawnCA contribuidor do SpotBugs respondeu ao meu comentário na issue 540. 
+- Terminei o passo "Getting started with Sphinx" e logo estarei pronta para fazer o PR.
