@@ -35,3 +35,9 @@
   * Quais são as principais dificuldades enfrentadas por newcomers para contribuir com projetos FLOSS? A experiência deles em outros projetos pode amezizar essas dificuldades?
   * A hacktoberfast encoraja participantes a contribuírem com projetos FLOSS. O que esperar desses participantes em termos de permanência e contribuições com o projeto FLOSS?
 * Resenha:
+  * Trouxe o debian e falou sobre como tornálo mais receptivo para quem está começando O keynote conceitualizou software livre e open-source - destacando software livre como um movimento social e open source como método de desenvolvimento.
+  * Software heritage - arquiva todos projetos de software disponíveis na internet!
+  * Revisitou os aspectos e motivações que ajudam na escolha de projetos FLOSS para contribuição. 
+  * Formas e estratégias para contribuição
+  * inserção de mulheres no curso e em floss
+  * Barreira linguística. Alunos de condições mais baixas não tem chance de contribuir com floss por não saber inglês. Antonio pensa que participar de um projeto internacional com um google tradutor basta, e quem sabe aprende inglẽs em paralelo.
