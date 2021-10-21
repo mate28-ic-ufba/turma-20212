@@ -46,7 +46,7 @@
 * Solução de como integrar o findsecbugs com SpotBugs é similar a: https://github.com/find-sec-bugs/find-sec-bugs/wiki/Maven-configuration.
 * Execução da ferramenta: ![SpotBugsExecution](https://drive.google.com/uc?export=view&id=1-RdZfB1p3v9ZC-3Ra2AlWo5OAhqqjwMX)
 * Aprendizado sobre as ferramentas utilizadas para gerar a documentação. Estou seguindo o tutorial [ReadTheDocs](https://docs.readthedocs.io/en/stable/tutorial/).
-  - [X] Read the docs tutorial: fork do projeto [readthedocs](https://github.com/luana-martins/ReadTheDocs.git), customização da build e versionamento.
+  - [X] Read the docs tutorial: fork do projeto [ReadTheDocs](https://github.com/luana-martins/ReadTheDocs.git), customização da build e versionamento.
   - [X] Getting started with Sphinx.
   - [X] How-to guides.
 
@@ -59,6 +59,13 @@
 - Terminei o os passos que estabeleci para aprender sobre o ReadTheDocs.
 
 ## 19/10/21
-- Criei uma documentação para a ferramenta [JNose Test](https://jnose.readthedocs.io/en/latest/index.html) usando o ReadTheDocs e submeti um PR.
-- Obs.: como a JNose Teste é desenvolvida pelo grupo de pesquisa do qual faço parte, me senti mais confortável em treinar nele primeiro para depois fazer a correção da issue do SpotBugs. 
-Fiquei contente com o resultado e estou me sentindo mais segura para contribuir com o SpotBugs :smiley:
+- Apenas para treinamento!!
+    - Criei uma documentação para a ferramenta [JNose Test](https://jnose.readthedocs.io/en/latest/index.html) usando o ReadTheDocs e submeti um PR.
+    - Como a JNose Teste é desenvolvida pelo grupo de pesquisa do qual faço parte, me senti mais confortável em treinar nele primeiro para depois fazer a correção da issue do SpotBugs. 
+    - Fiquei contente com o resultado e estou me sentindo mais segura para contribuir com o SpotBugs :smiley:
+
+## 20/10/21 e 21/10/21
+- Fiz a correção da issue 540 do SpotBugs.
+- Submeti o PR [1758](https://github.com/spotbugs/spotbugs/pull/1758).
+- Os revisões solicitaram algumas modificações.
+- Melhorei meu PR com as sugestões dos revisores.
