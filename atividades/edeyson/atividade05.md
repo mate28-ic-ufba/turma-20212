@@ -73,3 +73,4 @@
 	- Um dos comentários foi: Missing parameters (`nums`, `nums_size`, `target`, `return_size`) documentation.
 		- Como a maioria dos códigos não documenta argumentos, eu não o fiz.
 		- Fiz a nova documentação e submeti. Estou aguardando nova resposta.
+		- 22/10 - ainda aguardando resposta.
