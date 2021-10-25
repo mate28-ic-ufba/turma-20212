@@ -18,5 +18,7 @@ Apresentação:
 
 Antonio Terceiro é desenvolvedor de Software Livre e membro do projeto Debian. Ele é Doutor em Ciência da Computação pela Universidade Federal da Bahia e Mestre em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (UFRGS). Atualmente é Engenheiro de Software na Linaro Limited, e onde trabalha em plataformas pra Controle de Qualidade de Software. Seus interesses incluem Software Livre, Desenvolvimento de Software Livre e Código Aberto (FLOSS), Engenharia de Software e Controle de Qualidade em Software.
 
+### Aspectos Sociais de FLOSS
+
 Apresentação:
 [Software Livre: por quê e como contribuir](sl-contribuir.pdf?raw=true)
