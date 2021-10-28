@@ -72,7 +72,7 @@ Data | Semana | Tópico | Quem?
 08/10/2021 | 9 | Apresentação dos projetos | --
 15/10/2021 | 10 | [Aspectos Sociais de FLOSS](keynotes/speakers.md#aspectos-sociais-de-floss) | [Antonio Terceiro](keynotes/speakers.md#antonio-terceiro)
 22/10/2021 | 11 | Acompanhamento das atividades e dúvidas | --
-29/10/2021 | 12 | Gerência de projetos FLOSS: DevOps | Prof. Paulo Meirelles (UFABC)
+29/10/2021 | 12 | Gerência de projetos FLOSS: DevOps | Prof. Paulo Meirelles (UFABC) e Leonardo Leite (USP)
 05/11/2021 | 13 | Contribuição em projetos FLOSS 4: __Triagem de Bugs__ | --
 12/11/2021 | 14 | Garantia da Qualidade em projetos FLOSS | Prof. Rodrigo Rocha (UFBA)
 19/11/2021 | 15 | Contribuição em projetos FLOSS 5: __Resolução de Bugs__ | --
