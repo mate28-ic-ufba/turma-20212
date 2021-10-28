@@ -66,13 +66,13 @@ Data | Semana | Tópico | Quem?
 27/08/2021 | 3 | Desenvolvimento de projetos FLOSS | --
 03/09/2021 | 4 | __Seleção__ de projetos FLOSS | --
 10/09/2021 | 5 | __Familiarização__ com projetos FLOSS | --
-17/09/2021 | 6 | [Aspectos Legais de FLOSS](keynotes/speakers.md#licen%C3%A7as-de-software) | [Nelson Lago](keynotes/speakers.md#nelson-lago)
+17/09/2021 | 6 | [Aspectos Legais de FLOSS](keynotes/talks.md#licen%C3%A7as-de-software) | [Nelson Lago](keynotes/talks.md#nelson-lago)
 24/09/2021 | 7 | Contribuição em FLOSS 1: __Documentação__ | --
 01/10/2021 | 8 | Acompanhamento das atividades / palestra CBSOFT | --
 08/10/2021 | 9 | Apresentação dos projetos | --
-15/10/2021 | 10 | [Aspectos Sociais de FLOSS](keynotes/speakers.md#aspectos-sociais-de-floss) | [Antonio Terceiro](keynotes/speakers.md#antonio-terceiro)
+15/10/2021 | 10 | [Aspectos Sociais de FLOSS](keynotes/talks.md#aspectos-sociais-de-floss) | [Antonio Terceiro](keynotes/talks.md#antonio-terceiro)
 22/10/2021 | 11 | Acompanhamento das atividades e dúvidas | --
-29/10/2021 | 12 | Gerência de projetos FLOSS: DevOps | Prof. Paulo Meirelles (UFABC) e Leonardo Leite (USP)
+29/10/2021 | 12 | [Gerência de projetos FLOSS: DevOps](keynotes/talks.md#gerência-de-projetos-floss-e-devops) | [Prof. Paulo Meirelles (UFABC/USP)](keynotes/talks.md#paulo-meirelles) e [Leonardo Leite (USP)](keynotes/talks.md#leonardo-leite)
 05/11/2021 | 13 | Contribuição em projetos FLOSS 4: __Triagem de Bugs__ | --
 12/11/2021 | 14 | Garantia da Qualidade em projetos FLOSS | Prof. Rodrigo Rocha (UFBA)
 19/11/2021 | 15 | Contribuição em projetos FLOSS 5: __Resolução de Bugs__ | --
