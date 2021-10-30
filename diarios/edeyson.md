@@ -55,3 +55,11 @@ O destaque da apresentação foi na classificação das licenças em 3 grupos, f
 ## 12 a 15/10/21
 - Nesta semana eu interagi pelo Discord para compreender melhor a comunicação do grupo. Recebi a resposta, mas fiquei bastante inseguro em como atender à requisição de alteração da documentação.
 - Fia a alteração da documentação sugerida pelos desenvolvedores e estou aguardando nova interação. 
+
+## Semana de 22/10/21
+- Esta semana eu tive conversas com alunos da Licenciatura em Computação do IFBA sobre FLOSS. Motivado pela disciplina, apresentei alguns dos conhecimentos adquiridos. A reação dos alunos me surpreendeu, pois eles se mostraram bastante curiosos em aprender os conceitos e como se envolver com FLOSS. Abordamos tabbém os Recursos Educacionais Abertos e as licenças possíveis.
+
+## 29/10/21
+- Tiveos uma interessante apreentação e discussão sobre DevOps. Eu desconhecia o termo, embora o conceito seja facilmente assimilado. 
+- A discussão sobre as práticas de integração entre equipes de desenvolvimento e infraestrutura em FLOSS foi bastante proveitosa, assim como a relevância da adoção de processos automatizados para a produção rápida e segura de aplicações e serviços. 
+- Também discutimos sobre microserviços e como eles possibilitam a heterogeneidade de arquiteturas em sistemas FLOSS e como há a integração dos mesmos.
