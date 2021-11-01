@@ -24,6 +24,14 @@ Antonio Terceiro é desenvolvedor de Software Livre e membro do projeto Debian. 
 
 ## Gerência de projetos FLOSS e DevOps
 
+- Gerência de projetos FLOSS:
+  - Apresentação: [Continuous Delivery: Building Trust in a Large-scale, Complex Government Organization](IEEE-SW-CD-SPB-presentation.pdf?raw=true)
+  - Paper: [Continuous Delivery: Building Trust in a Large-scale, Complex Government Organization](IEEE-SW-CD-SPB-paper.pdf?raw=true)
+  - Fonte: https://softwarepublico.gov.br/gitlab/softwarepublico/articles/tree/master/ieeeSW
+- DevOps
+  - Apresentação: [DevOps e entrega contínua](2021-10-29_DevOps_UFBA.pdf?raw=true)
+  - Fonte: https://docs.google.com/presentation/d/1NNOueh4mGvLlt-CBgtt_iQrBsQX7MQW1L-VXfmN2wtM/edit#slide=id.g700112213a_0_5
+
 ### Paulo Meirelles
 
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4188461E1" height="100" align="left">
