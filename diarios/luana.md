@@ -82,3 +82,6 @@
 - Traduzi arquivos (13/20).
 - Enviei um email para Kengo Toda falando sobre a tradução da documentação para PT-BR. Preciso que ele me dê acesso de mantenedor no ReadTheDocs para configurar a nova tradução. Assim que obtiver uma resposta, farei o PR. 
 - Escrita do resumo sobre a apresentação do Paulo Meirelles e Leonardo Leite
+
+## 01/11
+- O Kengo Toda respondeu meu email. Para guiar outras pessoas que queiram fazer contribuições similares, ele pediu para que eu criasse uma discussão no GitHub e vai descrever os passos necessários. Então, criei a discussão [Translation of SpotBugs manual](https://github.com/spotbugs/spotbugs/discussions/1786).  
