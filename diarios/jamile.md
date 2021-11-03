@@ -71,7 +71,7 @@ Atividade relacionada a Internacionalização e Tradução, disponível no arqui
 Na aula de hoje houve apresentação com Antônio Terceiro, membro do projeto Debian. Foi interessante ver a experiência de alguém frente a um projeto de grande porte e em atividade.
 
 
-## 22/11/2021
+## 22/10/2021
 
 **Aula** 
 
@@ -81,7 +81,7 @@ Essa semana não tivemos aula.
 
 Seguindo com as colaborações com o FLOSS, realizei a revisão de vários termos disponíveis no transifex, relacionados ao software do MuseScore propriamente dito. A versão PT-BR já está 100% traduzida, então não há espaço para novas traduções nesta esfera. Como previsto, acredito ser mais proveitoso concentrar os trabalhos na documentação e manual, que ainda conta com muitos textos sem tradução.
 
-## 29/11/2021
+## 29/10/2021
 
 **Encaminhamento das atividades no FLOSS**
 
