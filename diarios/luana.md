@@ -85,3 +85,6 @@
 
 ## 01/11
 - O Kengo Toda respondeu meu email. Para guiar outras pessoas que queiram fazer contribuições similares, ele pediu para que eu criasse uma discussão no GitHub e vai descrever os passos necessários. Então, criei a discussão [Translation of SpotBugs manual](https://github.com/spotbugs/spotbugs/discussions/1786).  
+
+## 02/11 e 03/11
+- Traduzi arquivos (18/20).
