@@ -27,9 +27,9 @@ A decisão final se deu após confirmar a existência de uma ativa comunidade e 
 
 ## 17/09/2021 
 
-**Palestra com Nelson Posse Lago**
+**Palestra na Aula**
 
-Algumas impressões sobre a palestra foram registradas no arquivo [atividade_03.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_03.md).
+As impressões sobre a palestra em aula com Nelson Posse Lago foram registradas no arquivo [atividade_03.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_03.md).
 
 
 ## 24/09/2021 
@@ -63,4 +63,36 @@ Realização de tradução.
 
 Atividade relacionada a Internacionalização e Tradução, disponível no arquivo [atividade_06.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_06.md).
 
+
+## 15/10/2021
+
+**Palestra na Aula**
+
+Na aula de hoje houve apresentação com Antônio Terceiro, membro do projeto Debian. Foi interessante ver a experiência de alguém frente a um projeto de grande porte e em atividade.
+
+
+## 22/11/2021
+
+**Aula** 
+
+Essa semana não tivemos aula. 
+
+**FLOSS**
+
+Seguindo com as colaborações com o FLOSS, realizei a revisão de vários termos disponíveis no transifex, relacionados ao software do MuseScore propriamente dito. A versão PT-BR já está 100% traduzida, então não há espaço para novas traduções nesta esfera. Como previsto, acredito ser mais proveitoso concentrar os trabalhos na documentação e manual, que ainda conta com muitos textos sem tradução.
+
+## 29/11/2021
+
+**Encaminhamento das atividades no FLOSS**
+
+Sigo realizando a colaboração com o FLOSS. 
+Nesta semana:
+- Realizei a tradução completa da página "Helping to improve translations", disponibilizada [aqui](https://musescore.org/pt-br/node/278653).
+- Realizei uma revisão completa, atualização e tradução que faltava para a página "Handbook for MuseScore 3", disponibilizada [aqui](https://musescore.org/pt-br/handbook). A versão anterior estava parcialmente traduzida e com versão defasada, tendo vários itens inconsistentes com a versão original.
+
+**Palestra na Aula**
+
+Na aula de hoje houve a apresentação de palestra com Paulo Meirelles e Leonardo sobre DevOps, assunto completamente novo para mim. 
+No começo fiquei um pouco perdida mas, aos poucos, fui compreendendo tratar-se de um espaço para melhor estruturação de entregas contínuas em sistemas colaborativos.
+Apresentadores possuiam ótimo conhecimento prático sobre o assunto, o que facilitou este momento para compreensão inicial do assunto.
 
