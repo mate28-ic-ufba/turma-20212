@@ -38,3 +38,20 @@ O destaque da apresentação foi na classificação das licenças em 3 grupos, f
 - Participamos de uma apresentação remota sobre Licenças que foi bastante esclarecedora para dirimir uma série de dúvidas do que eu já havia lido no opensource.org e no fsf.org.
 
 - O destaque da apresentação foi na classificação das licenças em 3 grupos, focando em permissividade e derivação. A explicação foi bem didática para que saibamos escolher e reconhecer quando e como selecionar e usar licenças.
+
+## 07/10/21
+
+- Estou mais perdido que cego em tiroteio!!!
+- Descobri como atualizar o Fork e, através dele, dar commit!!!! Fantástico...
+- Me empolguei novamente...
+
+- Consegui contribuir com documentação via Weblate em vários projetos. Iniciei pelo TheAlgorithms, mas a ferramenta me sugere contribuir com outros projetos. Fiz sugestões de tradução para português e inglês :-)
+- Fiz minha primeira contribuição de código e documentação.
+
+
+## 08/10/21
+- Fim meu pull request para alteração de código e adição de documentação. Aguardando os revisores.
+
+## 12 a 15/10/21
+- Nesta semana eu interagi pelo Discord para compreender melhor a comunicação do grupo. Recebi a resposta, mas fiquei bastante inseguro em como atender à requisição de alteração da documentação.
+- Fia a alteração da documentação sugerida pelos desenvolvedores e estou aguardando nova interação. 
