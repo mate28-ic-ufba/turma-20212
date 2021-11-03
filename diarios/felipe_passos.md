@@ -1,5 +1,19 @@
 # Diário de Felipe Passos
 
+## 03/11/21
+
++ Achei que havia feito uma alteração no diário no mês passado, mas devo ter esquecido de confirmar o pull request.
+
+  Na anotação, havia relatado a minha contribuição ao Zulip terminal (criei o tema Nord), e como não havia tido resposta dos desenvolvedores.
+
+  https://github.com/zulip/zulip-terminal/pull/1139
+  
++ Também fiz uma contribuição traduzindo a documentação de desenvolvedor pra pt_BR. O @neiljp respondeu agradecendo pela contribuição, mas não sabia como encaixar o arquivo no projeto, e questionou a necessidade da tradução.
+
+  https://github.com/zulip/zulip-terminal/pull/1140
+  
++ O @neiljp também revisou na semana passada o Pull Request do Nord Theme. Ele pediu uma série de alterações organizacionais, que já estão em andamento.
+
 ## 12/09/21
 
 + Escolhi um projeto de um Chat Open-Source, chamado Zulip.
