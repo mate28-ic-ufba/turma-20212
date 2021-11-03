@@ -19,13 +19,34 @@
 7. A documentação parece ser relevante? Consistente? 
    - Sim.
 8. São usadas ferramentas para apoiar o processo de documentação? Quais? 
-   - Sim. As ferramentas [Sphinx](https://www.sphinx-doc.org/en/master/) e [readTheDocs](https://readthedocs.org/).
+   - Sim. As ferramentas [Sphinx](https://www.sphinx-doc.org/en/master/) e [ReadTheDocs](https://readthedocs.org/).
 
 ## Parte II - Contribuição 
 
 9. Escolha uma forma/tipo de documentação.
-   - Documentação do usuário - suporte em PT-BR.
-11. Faça uma contribuição ao projeto e envie um patch.
-   - X
-13. Qual foi o feedback que você recebeu dos desenvolvedores do projeto?
-   - X
+   - Documentação do usuário - [Issue 540](https://github.com/spotbugs/spotbugs/issues/540).
+10. Faça uma contribuição ao projeto e envie um patch.
+    - Vou descrever como integrar as findsecbugs regras do findsecbugs no SpotBugs.
+    - A solução consistiu em descrever o trecho de código a ser adicionado no `pom.xml`:
+    ```
+    <plugin>
+      <groupId>com.github.spotbugs</groupId>
+      <artifactId>spotbugs-maven-plugin</artifactId>
+      <version>4.2.0</version>
+      <configuration>
+        <plugins>
+          <plugin>
+            <groupId>com.h3xstream.findsecbugs</groupId>
+            <artifactId>findsecbugs-plugin</artifactId>
+            <version>1.10.1</version>
+          </plugin>
+        </plugins>
+      </configuration>
+    </plugin>
+    ```
+    - Resultado pode ser visualizado no [ReadTheDocs](https://spotbugslm.readthedocs.io/en/latest/maven.html#integrate-find-security-bugs-into-spotbugs-maven-plugin). 
+  
+11. Qual foi o feedback que você recebeu dos desenvolvedores do projeto?
+    - Enviei o PR [#1758](https://github.com/spotbugs/spotbugs/pull/1758).
+    - Para enviar um PR, foi necessário apenas adicionar as modificações no CHANGELOG.md e esperar por 2 revisões.
+    - O PR foi aprovado com modificações.
