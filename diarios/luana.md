@@ -26,8 +26,46 @@
 *  Como o SpotBugs foi desenvolvido com base no FindBugs, busquei pelo intervalo onde um foi descontinuado e o outro teve início. 
 *  Utilizei a ferramenta [CK](https://github.com/mauricioaniche/ck) para contabilizar a quantidade de classes, linhas, e métodos.
 
-## 01/10/2021
+## 01/10/21
+* Participação CBSoft - OpenScienSE (27 de setembro a 01 de outubro).
 * Realização da primeira parte da [Atividade 05](https://github.com/mate28-ic-ufba/turma-20212/tree/main/atividades/luana/atividade05.md).
 * Procurei pela documentação de usuários e contribuidores para responder as questões.
-* Identifiquei que posso contribuir com o suporte da documentação em PT-BR.
+* Identifiquei que posso contribuir com o suporte da documentação em PT-BR. Atualização: focarei nas issues sobre documentação.
 * Aprender sobre as ferramentas utilizadas para gerar a documentação.
+
+## 04/10/21
+* Identifiquei algumas issues sobre documentação (good first issue) nas quais posso trabalhar.
+  - [Issue 1164](https://github.com/spotbugs/spotbugs/issues/1164): Adição de exemplos sobre como usar regras findsecbugs no SpotBugs.
+  - [Issue 540](https://github.com/spotbugs/spotbugs/issues/540): Configuração maven para utilização das regras findsecbugs no SpotBugs.
+
+## 06/10/21
+* Investigação da issue 540:
+  - Seleção do projeto [commons-io](https://github.com/apache/commons-io) para executar o SpotBugs e entender como funciona.
+  - Configuração do pom.xml para a adição do SpotBugs.
+  - Configuração do pom.xml para adição do plugin findsecbugs.
+* Solução de como integrar o findsecbugs com SpotBugs é similar a: https://github.com/find-sec-bugs/find-sec-bugs/wiki/Maven-configuration.
+* Execução da ferramenta: ![SpotBugsExecution](https://drive.google.com/uc?export=view&id=1-RdZfB1p3v9ZC-3Ra2AlWo5OAhqqjwMX)
+* Aprendizado sobre as ferramentas utilizadas para gerar a documentação. Estou seguindo o tutorial [ReadTheDocs](https://docs.readthedocs.io/en/stable/tutorial/).
+  - [X] Read the docs tutorial: fork do projeto [ReadTheDocs](https://github.com/luana-martins/ReadTheDocs.git), customização da build e versionamento.
+  - [X] Getting started with Sphinx.
+  - [X] How-to guides.
+
+## 14/10/21
+- Leitura de textos relacionados ao tema "Aspectos Sociais de FLOSS".
+- Elaboração de perguntas para a apresentação do Antônio Terceiro. 
+
+## 18/10/21
+- ThrawnCA contribuidor do SpotBugs respondeu ao meu comentário na issue 540. 
+- Terminei o os passos que estabeleci para aprender sobre o ReadTheDocs.
+
+## 19/10/21
+- Apenas para treinamento!!
+    - Criei uma documentação para a ferramenta [JNose Test](https://jnose.readthedocs.io/en/latest/index.html) usando o ReadTheDocs e submeti um PR.
+    - Como a JNose Teste é desenvolvida pelo grupo de pesquisa do qual faço parte, me senti mais confortável em treinar nele primeiro para depois fazer a correção da issue do SpotBugs. 
+    - Fiquei contente com o resultado e estou me sentindo mais segura para contribuir com o SpotBugs :smiley:
+
+## 20/10/21 e 21/10/21
+- Fiz a correção da issue 540 do SpotBugs.
+- Submeti o PR [1758](https://github.com/spotbugs/spotbugs/pull/1758).
+- Os revisões solicitaram algumas modificações.
+- Melhorei meu PR com as sugestões dos revisores.

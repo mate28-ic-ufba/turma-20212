@@ -5,8 +5,7 @@
 
 **Selecionar e realizar reconhecimento técnico de uma aplicação de diário.**
 
-A aplicação selecionada foi o app Diary, desenvolvido para a plataforma Android. 
-Disponível em: https://josep-portella.com/en/software/diary/
+A aplicação selecionada foi o app [Diary](https://josep-portella.com/en/software/diary/), desenvolvido para a plataforma Android.
 
 
 
@@ -20,8 +19,9 @@ As áreas escolhidas foram: esportes (mais especificamente triathlon) e música.
 
 As capacidades elencadas foram: traduções envolvendo os idiomas inglês, francês, espanhol e/ou português, gravação de recursos vocais (voice-over, narração, jingles, ou semelhantes) e/ou edição de textos.
 
-Após levantar algumas possíveis aplicações, fiz a opção pelo museScore, software voltado a edição de partituras musicais.
-![](https://github.com/musescore/MuseScore/blob/master/assets/musescore_logo_full.png)
+Após levantar algumas possíveis aplicações, fiz a opção pelo [MuseScore](https://musescore.org), software voltado a edição de partituras musicais.
+
+![](https://s3.amazonaws.com/s.musescore.org/about/images/design_MU3/musescore_sticker+6%403x.png)
 
 A decisão final se deu após confirmar a existência de uma ativa comunidade e receptividade para colaborações. Além disso, fui movida pelo desejo que retribuir o apoio que o software me proporcionou, pois utilizei o mesmo ativamente durante uma graduação em música, por cerca de seis anos.
 
@@ -29,12 +29,38 @@ A decisão final se deu após confirmar a existência de uma ativa comunidade e 
 
 **Palestra com Nelson Posse Lago**
 
-Algumas impressões sobre a palestra foram registradas no arquivo "atividade_03.md", dentro da minha pasta de trabalho.
+Algumas impressões sobre a palestra foram registradas no arquivo [atividade_03.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_03.md).
 
 
 ## 24/09/2021 
 
 **Realização das Atividades 04 e 05**
 
-Realizei um reconhecimento técnico do FLOSS que escolhi para trabalhar durante o semestre, e estabeleci contato com a comunidade. As informações, o processo e os resultados estão descritos nos arquivos "atividade_04.md" "atividade_05.md", ambos dentro da minha pasta de trabalho.
+Realizei um reconhecimento técnico do FLOSS que escolhi para trabalhar durante o semestre, e estabeleci contato com a comunidade. No arquivo [atividade_04.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_04.md) estão descritas as informações gerais sobre o projeto, e seu reconhecimento técnico.
+
+
+## 30/09/2021
+
+**Realização das Atividades 04 e 05**
+
+A atividade 05, desenvolvida nesta semana, descreve a documentação disponível no projeto e formas para colaboração com este item. Também apresenta quais ações foram realizadas para estabelecer um primeiro contato com a equipe e comunidade, e os feedbacks obtidos. Processo descrito no arquivo [atividade_05.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_05.md).
+
+
+## 07/10/2021
+
+**Andamento da colaboração com o FLOSS escolhido**
+
+Realização de tradução.
+
+[Página original](https://musescore.org/en/handbook/3/helping-improve-translations)
+
+[Tradução feita](https://musescore.org/pt-br/node/278653)
+
+
+## 14/10/2021
+
+**Realização da Atividade 06**
+
+Atividade relacionada a Internacionalização e Tradução, disponível no arquivo [atividade_06.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_06.md).
+
 

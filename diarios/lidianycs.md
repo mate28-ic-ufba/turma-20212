@@ -66,4 +66,3 @@ https://github.com/TEAMMATES
 
 ## 22/10/21
 Ainda nao resolvi nenhuma _issue_ no projeto. As _goodfirstissues_ são selecionadas muito rápido por conta do _hacktoberfest_.
-
