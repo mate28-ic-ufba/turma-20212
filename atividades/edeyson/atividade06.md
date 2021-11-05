@@ -6,7 +6,10 @@
 **Parte 1**  
 
 -   Há partes do projeto (interface de usuário, documentação, website) preparadas para tradução ("internationalization" - I18N)?
-	- Sim. O projeto usa I18N e arquivos JSON são gerados a partir das marcações para tradução. Por exemplo, no arquivo https://github.com/TheAlgorithms/website/blob/main/pages/algorithm/%5Balgorithm%5D.tsx:
+	- Sim. 
+	- No arquivo https://github.com/TheAlgorithms/website/blob/main/hooks/translation.ts tem-se:
+		- import { useTranslation as useNextTranslation } from "next-i18next";
+	- O projeto usa I18N e arquivos JSON são gerados a partir das marcações para tradução. Por exemplo, no arquivo https://github.com/TheAlgorithms/website/blob/main/pages/algorithm/%5Balgorithm%5D.tsx:
 		- import useTranslation from "hooks/translation";
 		- const t = useTranslation();
 		- description={t(algorithm.body[locale] || algorithm.body.en? "algorithmMetaDescriptionExplained"
