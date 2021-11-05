@@ -1,0 +1,27 @@
+# Atividade 06 - Documentação
+
+- Há partes do projeto (interface de usuário, documentação, website) preparadas para tradução ("internationalization" - I18N)?
+
+Sim.
+
+- Quais as ferramentas usadas para apoiar o processo de tradução ("localization" - L10N)?
+
+Crowdin
+
+- Qual o formato utilizado?
+
+Não encontrei essa informação.
+
+- Há uma equipe fazendo tradução para Português do Brasil (pt-br)?
+
+Não.
+
+- Faça uma contribuição de tradução ao projeto e envie um patch.
+
++ Traduzi 1224 palavras até o momento:
+https://crowdin.com/project/ethereum-org/reports/top-members
+
+
+- Qual foi o feedback que você recebeu dos desenvolvedores do projeto?
+
++ Fui convidada a participar do grupo de tradução no Discord.
