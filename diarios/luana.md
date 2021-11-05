@@ -86,5 +86,8 @@
 ## 01/11
 - O Kengo Toda respondeu meu email. Para guiar outras pessoas que queiram fazer contribuições similares, ele pediu para que eu criasse uma discussão no GitHub e vai descrever os passos necessários. Então, criei a discussão [Translation of SpotBugs manual](https://github.com/spotbugs/spotbugs/discussions/1786).  
 
-## 02/11 e 03/11
+## 02/11, 03/11, 04/11 e 05/11
 - Traduzi arquivos (18/20).
+- Estou no arquivo bugDescriptions.po e ainda falta traduzir o arquivo detectors.po. Cada arquivo com mais de 5 mil linhas.
+- Resolvi fazer um [PR](https://github.com/spotbugs/spotbugs/pull/1796) com o que já tinha traduzido e vou trabalhar nesses outros pouco a pouco.
+- O KengoToda me ajudou com a configuração do [ReadTheDocs stable](https://spotbugs.readthedocs.io/en/stable/). 
