@@ -6,7 +6,8 @@
 **Parte 1**  
 
 -   Há partes do projeto (interface de usuário, documentação, website) preparadas para tradução ("internationalization" - I18N)?
-	- Não. A tradução é via arquivos json, mapeando de inglês para outro idioma. Por exemplo, o arquivo https://github.com/TheAlgorithms/website/blob/main/public/locales/es/categories.json:
+	- Sim. O projeto usa I18N e arquivos JSON são gerados a partir das marcações para tradução. 
+	- Como exemplo de tradução com json, mapeando de inglês para outro idioma, tem-se o arquivo https://github.com/TheAlgorithms/website/blob/main/public/locales/es/categories.json:
 
 			"conversions": "Conversiones",
 			"computervision": "Visión de ordenador",
