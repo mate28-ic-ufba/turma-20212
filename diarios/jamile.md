@@ -96,3 +96,22 @@ Na aula de hoje houve a apresentação de palestra com Paulo Meirelles e Leonard
 No começo fiquei um pouco perdida mas, aos poucos, fui compreendendo tratar-se de um espaço para melhor estruturação de entregas contínuas em sistemas colaborativos.
 Apresentadores possuiam ótimo conhecimento prático sobre o assunto, o que facilitou este momento para compreensão inicial do assunto.
 
+## 05/11/2021
+
+**Encaminhamento das atividades no FLOSS**
+
+Sigo realizando a colaboração com o FLOSS. 
+Nesta semana:
+- Realizei a tradução completa da página "Create a new score", disponibilizada [aqui](https://musescore.org/pt-br/node/278622).
+
+**Aula**
+
+Durante a aula foi apresentada por cima questões sobre bugs e issues, tendo sido exibida partes da tese do professor Rodrigo Rocha, e rastreadas issues em GitHub.
+
+## 07/11/2021
+
+**Realização da Atividade 07**
+
+Atividade relacionada a Utilização de Issue Tracker, disponível no arquivo [atividade_07.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_07.md).
+
+
