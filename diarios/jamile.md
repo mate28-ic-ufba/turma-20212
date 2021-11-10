@@ -115,3 +115,9 @@ Durante a aula foi apresentada por cima questões sobre bugs e issues, tendo sid
 Atividade relacionada a Utilização de Issue Tracker, disponível no arquivo [atividade_07.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_07.md).
 
 
+## 10/11/2021
+
+**Encaminhamento das atividades no FLOSS**
+
+Sigo realizando a colaboração com o FLOSS. 
+Nesta semana, realizei a tradução completa da página "Note input", disponibilizada [aqui](https://musescore.org/pt-br/node/278615).
