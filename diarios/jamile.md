@@ -120,4 +120,6 @@ Atividade relacionada a Utilização de Issue Tracker, disponível no arquivo [a
 **Encaminhamento das atividades no FLOSS**
 
 Sigo realizando a colaboração com o FLOSS. 
-Nesta semana, realizei a tradução completa da página "Note input", disponibilizada [aqui](https://musescore.org/pt-br/node/278615).
+Nesta semana:
+- Realizei a tradução completa da página [Note input](https://musescore.org/pt-br/node/278615).
+- Traduzi o restante dos termos que ainda estavam em inglês do [Home do projeto](https://musescore.org/pt-br).
