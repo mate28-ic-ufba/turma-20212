@@ -6,3 +6,5 @@ Parte I - Descrição do projeto
 2.	Website: https://commonvoice.mozilla.org/pt
 3.	Github: https://github.com/common-voice/common-voice
 4.	Descrição: O Mozilla Common Voice é uma iniciativa para ajudar a ensinar às máquinas como pessoas reais falam.
+
+No dia 24 de outubro realizei a gravação da leitura de 10 frases e fiz a validação da gravação de 10 frases gravadas.
