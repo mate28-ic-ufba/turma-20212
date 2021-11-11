@@ -91,3 +91,8 @@
 - Estou no arquivo bugDescriptions.po e ainda falta traduzir o arquivo detectors.po. Cada arquivo com mais de 5 mil linhas.
 - Resolvi fazer um [PR](https://github.com/spotbugs/spotbugs/pull/1796) com o que já tinha traduzido e vou trabalhar nesses outros pouco a pouco.
 - O KengoToda me ajudou com a configuração do [ReadTheDocs stable](https://spotbugs.readthedocs.io/en/stable/). 
+
+## 11/11
+- Merge do meu PR sobre documentação com a master. A documentação vai ser lançada na versão 4.5.0 =D
+- Leitura dos materiais para familiarização com o tema a ser apresentado pelo professor Rodrigo.
+- Elaboração das questões para participação na palestra.
