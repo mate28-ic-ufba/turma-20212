@@ -19,5 +19,6 @@
     - É necessário solicitar acesso de mantenedor ao contribuidor kengoToda para configurar o ambiente.
 6. Qual foi o feedback que você recebeu dos desenvolvedores do projeto?
     - Enviei um email para KengoToda descrevendo minha contribuição e solicitando acesso de mantenedor.
-    - Irei submeter o PR assim que ele me responder. Acredito que irão aceitar a contribuição, são bastante receptivos :) 
     - O KengoToda respondeu meu email, solicitando para abrir uma discussão no GitHub de modo a guiar pessoas que queiram fazer contribuições similares. Criei a discussão em [Translation of SpotBugs manual](https://github.com/spotbugs/spotbugs/discussions/1786).     
+    - Submeti meu [PR 1796](https://github.com/spotbugs/spotbugs/pull/1796) e foi aceito!
+    - A documentação estará disponível de forma oficial na versão 4.5.0 do SpotBugs. 🤩
