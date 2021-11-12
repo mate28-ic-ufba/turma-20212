@@ -50,3 +50,9 @@
   - Nessa apresentação, os keynotes Paulo Meirelles e Leonardo Leite apresentaram o conceito de DevOps como sendo um esforço organizacional colaborativo e multidisciplinar para automatizar a entrega contínua de novas atualizações de software. Mais que isso, eles apresentaram esse conceito alinhado com sua aplicação em um cenário real. A apresentação foi fantástica!
   - Os keynotes apresentaram uma discussão acerca das estruturas organizacionais, nas quais os desenvolvedores e especialistas em infraestrutura podem estar em uma mesma equipe ou separados, para que possam ser coordenadas de forma a fazer entregas contínuas. 
   - Além disso, os keynotes apresentaram práticas essenciais em DevOps, como o compatilhamento de conhecimento, gerenciamento de código, integração contínua, deployment contínuo e etc., para a produção rápida e segura de aplicações.    
+
+## Rodrigo Rocha
+* Tema: Garantia da Qualidade em projetos FLOSS
+* Elaboração de perguntas sobre o tema:
+  - Uma traditional release é composta por várias rapid releases ou são desenvolvidas de formas separadas? O que quero saber é a relação entre elas e como identificar uma traditional release em um projeto. Tem alguma relação com latest e stable?
+  - Na comparação entre modificações suplementares, modificações inapropriadas e reabertura de issues, a conclusão é que as modificações inapropriadas necessitam de modificações suplementares, mas uma issue reaberta nem sempre é associada com modificações inapropriadas. Por quais outros motivos ela pode ser reaberta sem estar relacionada com modificações inapropriadas e suplementares?   
