@@ -74,7 +74,7 @@ Data | Semana | Tópico | Quem?
 22/10/2021 | 11 | Acompanhamento das atividades e dúvidas | --
 29/10/2021 | 12 | [Gerência de projetos FLOSS: DevOps](keynotes/talks.md#gerência-de-projetos-floss-e-devops) | [Prof. Paulo Meirelles (UFABC/USP)](keynotes/talks.md#paulo-meirelles) e [Leonardo Leite (USP)](keynotes/talks.md#leonardo-leite)
 05/11/2021 | 13 | Contribuição em projetos FLOSS 4: __Triagem de Bugs__ | --
-12/11/2021 | 14 | Issues em Projetos FLOSS | [Prof. Rodrigo Rocha (UFBA)](https://github.com/rodrigorgs)
+12/11/2021 | 14 | [Issues em Projetos FLOSS](keynotes/talks.md#issues-em-projetos-de-software-livre) | [Prof. Rodrigo Rocha Gomes e Souza (UFBA)](keynotes/talks.md#rodrigo-rocha-gomes-e-souza)
 19/11/2021 | 15 | Contribuição em projetos FLOSS 5: __Resolução de Bugs__ | --
 26/11/2021 | 16 | Aspectos Econômicos de FLOSS: Ecossistemas | --
 03/12/2021 | 17 | Encerramento | Apresentação e confraternização
