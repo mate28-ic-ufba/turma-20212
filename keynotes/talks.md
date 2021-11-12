@@ -48,6 +48,8 @@ Desenvolvedor de sistemas no Serviço Federal de Processamento de Dados (SERPRO)
 
 ### Redrigo Rocha Gomes e Souza
 
+<img src="http://images.app.goo.gl/SJKdSmFYoTLC7NMc9" height="100" align="left">
+
 Professor adjunto do Instituto de Computação da Universidade Federal da Bahia (UFBA). Atua principalmente nos seguintes temas: engenharia de software experimental, mineração de repositórios de software, evolução de software, desenvolvimento de aplicativos móveis e desenvolvimento de jogos eletrônicos.
 
 
