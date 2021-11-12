@@ -44,7 +44,7 @@ Professor adjunto na Universidade Federal do ABC (UFABC). Também atua como pesq
 
 Desenvolvedor de sistemas no Serviço Federal de Processamento de Dados (SERPRO) e doutorando na Universidade de São Paulo. Mestre em Ciência da Computação e Engenheiro de Computação, ambos pela Universidade de São Paulo. Possui experiência em desenvolvimento de sistemas, principalmente em plataforma Java. Áreas de interesse: arquitetura de serviços, APIs, DevOps, computação em nuvem, infraestrutura como código, engenharia de software, bancos de dados / SQL, métodos ágeis, usabilidade, acessibilidade, software livre, dados abertos e ensino de programação.
 
-## Issues em Projetos de Software
+## Issues em Projetos de Software Livre
 
 ### Rodrigo Rocha Gomes e Souza
 
