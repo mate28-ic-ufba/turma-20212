@@ -21,7 +21,7 @@ Opções escolhidas até o momento:
 
 ## 17/09/21
 
-+ Palestra sobre direitos de autor e licenças de software livre com Nelson Mandela.
++ Palestra sobre direitos de autor e licenças de software livre com Nelson.
 + Resumo:
 +   Explicação sobre legislação, licenças e contratos. Apresentação das diferentes tipos de licenças como BSD, Apache, GPL e suas diferentes versões. Discussão sobre algumas incompatibilidades entre as licenças e importância da escolha de uma licença adequada. A palestra promoveu algumas reflexões importantes sobre aspectos práticos e legais da criação, distribuição e uso de software livre.
 
@@ -66,3 +66,8 @@ https://github.com/TEAMMATES
 
 ## 22/10/21
 Ainda nao resolvi nenhuma _issue_ no projeto. As _goodfirstissues_ são selecionadas muito rápido por conta do _hacktoberfest_.
+
+## 12/11/21
++Palestra com o prof Rodrigo Spínola sobre controle de issues.
+Apresentação do bugzilla, discussão sobre abaertura e controle de issies e acompanhamento de bugs.
+Foi abordado o topico de privacidade dos dados em relação a utilização do GitHub e a importância de usar ferramentas para controle de bugs.
