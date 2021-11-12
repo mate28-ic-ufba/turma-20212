@@ -76,7 +76,7 @@ Data | Semana | Tópico | Quem?
 05/11/2021 | 13 | Contribuição em projetos FLOSS 4: __Triagem de Bugs__ | --
 12/11/2021 | 14 | [Issues em Projetos FLOSS](keynotes/talks.md#issues-em-projetos-de-software-livre) | [Prof. Rodrigo Rocha Gomes e Souza (UFBA)](keynotes/talks.md#rodrigo-rocha-gomes-e-souza)
 19/11/2021 | 15 | Contribuição em projetos FLOSS 5: __Resolução de Bugs__ | --
-26/11/2021 | 16 | Aspectos Econômicos de FLOSS: Ecossistemas | --
+26/11/2021 | 16 | Ecossistemas de Software Livre | --
 03/12/2021 | 17 | Encerramento | Apresentação e confraternização
 
 ## Leituras 
