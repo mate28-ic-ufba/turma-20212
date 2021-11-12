@@ -36,32 +36,28 @@ As impressões sobre a palestra em aula com Nelson Posse Lago foram registradas 
 
 **Realização das Atividades 04 e 05**
 
-Realizei um reconhecimento técnico do FLOSS que escolhi para trabalhar durante o semestre, e estabeleci contato com a comunidade. No arquivo [atividade_04.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_04.md) estão descritas as informações gerais sobre o projeto, e seu reconhecimento técnico.
+- Realizei um reconhecimento técnico do FLOSS que escolhi para trabalhar durante o semestre, e estabeleci contato com a comunidade. No arquivo [atividade_04.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_04.md) estão descritas as informações gerais sobre o projeto, e seu reconhecimento técnico.
 
 
 ## 30/09/2021
 
 **Realização das Atividades 04 e 05**
 
-A atividade 05, desenvolvida nesta semana, descreve a documentação disponível no projeto e formas para colaboração com este item. Também apresenta quais ações foram realizadas para estabelecer um primeiro contato com a equipe e comunidade, e os feedbacks obtidos. Processo descrito no arquivo [atividade_05.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_05.md).
+- A atividade 05, desenvolvida nesta semana, descreve a documentação disponível no projeto e formas para colaboração com este item. Também apresenta quais ações foram realizadas para estabelecer um primeiro contato com a equipe e comunidade, e os feedbacks obtidos. Processo descrito no arquivo [atividade_05.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_05.md).
 
 
 ## 07/10/2021
 
 **Andamento da colaboração com o FLOSS escolhido**
 
-Realização de tradução.
-
-[Página original](https://musescore.org/en/handbook/3/helping-improve-translations)
-
-[Tradução feita](https://musescore.org/pt-br/node/278653)
+- Realização de tradução da página [Helping to improve translations](https://musescore.org/pt-br/node/278653).
 
 
 ## 14/10/2021
 
 **Realização da Atividade 06**
 
-Atividade relacionada a Internacionalização e Tradução, disponível no arquivo [atividade_06.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_06.md).
+- Atividade relacionada a Internacionalização e Tradução, disponível no arquivo [atividade_06.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_06.md).
 
 
 ## 15/10/2021
@@ -79,7 +75,9 @@ Essa semana não tivemos aula.
 
 **FLOSS**
 
-Seguindo com as colaborações com o FLOSS, realizei a revisão de vários termos disponíveis no transifex, relacionados ao software do MuseScore propriamente dito. A versão PT-BR já está 100% traduzida, então não há espaço para novas traduções nesta esfera. Como previsto, acredito ser mais proveitoso concentrar os trabalhos na documentação e manual, que ainda conta com muitos textos sem tradução.
+Seguindo com as colaborações com o FLOSS:
+Nesta semana:
+- Realizei a revisão de vários termos disponíveis no transifex, relacionados ao software do MuseScore propriamente dito. A versão PT-BR já está 100% traduzida, então não há espaço para novas traduções nesta esfera. Como previsto, acredito ser mais proveitoso concentrar os trabalhos na documentação e manual, que ainda conta com muitos textos sem tradução.
 
 ## 29/10/2021
 
@@ -87,8 +85,8 @@ Seguindo com as colaborações com o FLOSS, realizei a revisão de vários termo
 
 Sigo realizando a colaboração com o FLOSS. 
 Nesta semana:
-- Realizei a tradução completa da página "Helping to improve translations", disponibilizada [aqui](https://musescore.org/pt-br/node/278653).
-- Realizei uma revisão completa, atualização e tradução que faltava para a página "Handbook for MuseScore 3", disponibilizada [aqui](https://musescore.org/pt-br/handbook). A versão anterior estava parcialmente traduzida e com versão defasada, tendo vários itens inconsistentes com a versão original.
+- Realizei a tradução completa da página [Helping to improve translations](https://musescore.org/pt-br/node/278653).
+- Realizei uma revisão completa, atualização e tradução que faltava para a página [Handbook for MuseScore 3](https://musescore.org/pt-br/handbook). A versão anterior estava parcialmente traduzida e com versão defasada, tendo vários itens inconsistentes com a versão original.
 
 **Palestra na Aula**
 
@@ -102,7 +100,7 @@ Apresentadores possuiam ótimo conhecimento prático sobre o assunto, o que faci
 
 Sigo realizando a colaboração com o FLOSS. 
 Nesta semana:
-- Realizei a tradução completa da página "Create a new score", disponibilizada [aqui](https://musescore.org/pt-br/node/278622).
+- Realizei a tradução completa da página [Create a new score](https://musescore.org/pt-br/node/278622).
 
 **Aula**
 
@@ -112,7 +110,7 @@ Durante a aula foi apresentada por cima questões sobre bugs e issues, tendo sid
 
 **Realização da Atividade 07**
 
-Atividade relacionada a Utilização de Issue Tracker, disponível no arquivo [atividade_07.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_07.md).
+- Atividade relacionada a Utilização de Issue Tracker, disponível no arquivo [atividade_07.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_07.md).
 
 
 ## 10/11/2021
