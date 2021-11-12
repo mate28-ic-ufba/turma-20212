@@ -15,7 +15,6 @@
 		- description={t(algorithm.body[locale] || algorithm.body.en? "algorithmMetaDescriptionExplained"
             		: "algorithmMetaDescription", {...
 	- Como exemplo de tradução com json, mapeando de inglês para o espanhol, tem-se o arquivo https://github.com/TheAlgorithms/website/blob/main/public/locales/es/categories.json:
-
 			"conversions": "Conversiones",
 			"computervision": "Visión de ordenador",
 			"compression": "Compresión",
