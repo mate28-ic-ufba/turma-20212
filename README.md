@@ -62,7 +62,7 @@ Aulas às sextas-feiras, de 13:00 às 15:45h
 Data | Semana | Tópico | Quem?
 -- | -- | -- | --
 13/08/2021 | 1 | Apresentação da disciplina | --
-20/08/2021 | 2 | Apresentação da disciplina; O que é FL/OSS? | --
+20/08/2021 | 2 | O que é FL/OSS? | --
 27/08/2021 | 3 | Desenvolvimento de projetos FLOSS | --
 03/09/2021 | 4 | __Seleção__ de projetos FLOSS | --
 10/09/2021 | 5 | __Familiarização__ com projetos FLOSS | --
@@ -74,7 +74,7 @@ Data | Semana | Tópico | Quem?
 22/10/2021 | 11 | Acompanhamento das atividades e dúvidas | --
 29/10/2021 | 12 | [Gerência de projetos FLOSS: DevOps](keynotes/talks.md#gerência-de-projetos-floss-e-devops) | [Prof. Paulo Meirelles (UFABC/USP)](keynotes/talks.md#paulo-meirelles) e [Leonardo Leite (USP)](keynotes/talks.md#leonardo-leite)
 05/11/2021 | 13 | Contribuição em projetos FLOSS 4: __Triagem de Bugs__ | --
-12/11/2021 | 14 | Garantia da Qualidade em projetos FLOSS | Prof. Rodrigo Rocha (UFBA)
+12/11/2021 | 14 | Issues em Projetos FLOSS | [Prof. Rodrigo Rocha (UFBA)](https://github.com/rodrigorgs)
 19/11/2021 | 15 | Contribuição em projetos FLOSS 5: __Resolução de Bugs__ | --
 26/11/2021 | 16 | Aspectos Econômicos de FLOSS: Ecossistemas | --
 03/12/2021 | 17 | Encerramento | Apresentação e confraternização
