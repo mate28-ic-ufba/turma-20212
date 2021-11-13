@@ -24,6 +24,14 @@ Antonio Terceiro é desenvolvedor de Software Livre e membro do projeto Debian. 
 
 ## Gerência de projetos FLOSS e DevOps
 
+- Gerência de projetos FLOSS:
+  - Apresentação: [Continuous Delivery: Building Trust in a Large-scale, Complex Government Organization](IEEE-SW-CD-SPB-presentation.pdf?raw=true)
+  - Paper: [Continuous Delivery: Building Trust in a Large-scale, Complex Government Organization](IEEE-SW-CD-SPB-paper.pdf?raw=true)
+  - Fonte: https://softwarepublico.gov.br/gitlab/softwarepublico/articles/tree/master/ieeeSW
+- DevOps
+  - Apresentação: [DevOps e entrega contínua](2021-10-29_DevOps_UFBA.pdf?raw=true)
+  - Fonte: https://docs.google.com/presentation/d/1NNOueh4mGvLlt-CBgtt_iQrBsQX7MQW1L-VXfmN2wtM/edit#slide=id.g700112213a_0_5
+
 ### Paulo Meirelles
 
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4188461E1" height="100" align="left">
@@ -35,3 +43,13 @@ Professor adjunto na Universidade Federal do ABC (UFABC). Também atua como pesq
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4489217E0" height="100" align="left">
 
 Desenvolvedor de sistemas no Serviço Federal de Processamento de Dados (SERPRO) e doutorando na Universidade de São Paulo. Mestre em Ciência da Computação e Engenheiro de Computação, ambos pela Universidade de São Paulo. Possui experiência em desenvolvimento de sistemas, principalmente em plataforma Java. Áreas de interesse: arquitetura de serviços, APIs, DevOps, computação em nuvem, infraestrutura como código, engenharia de software, bancos de dados / SQL, métodos ágeis, usabilidade, acessibilidade, software livre, dados abertos e ensino de programação.
+
+## Issues em Projetos de Software Livre
+
+### Rodrigo Rocha Gomes e Souza
+
+<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4189462A2" height="100" align="left">
+
+Professor adjunto do Instituto de Computação da Universidade Federal da Bahia (UFBA). Atua principalmente nos seguintes temas: engenharia de software experimental, mineração de repositórios de software, evolução de software, desenvolvimento de aplicativos móveis e desenvolvimento de jogos eletrônicos.
+
+

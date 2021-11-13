@@ -38,6 +38,21 @@
   * Trouxe o debian e falou sobre como tornálo mais receptivo para quem está começando O keynote conceitualizou software livre e open-source - destacando software livre como um movimento social e open source como método de desenvolvimento.
   * Software heritage - arquiva todos projetos de software disponíveis na internet!
   * Revisitou os aspectos e motivações que ajudam na escolha de projetos FLOSS para contribuição. 
-  * Formas e estratégias para contribuição
-  * inserção de mulheres no curso e em floss
-  * Barreira linguística. Alunos de condições mais baixas não tem chance de contribuir com floss por não saber inglês. Antonio pensa que participar de um projeto internacional com um google tradutor basta, e quem sabe aprende inglẽs em paralelo.
+  * Barreiras para contribuição em FLOSS. O keynote falou sobre a inserção de mulheres e pessoas de diferentes níveis sociais. Algo que me chamou atenção foi o fato de alunos de baixa renda não terem chances de contribuir com FLOSS por não saberem a lángua inglesa. O Keynote destacou que as de tradução existentes hoje facilitam a inserção desses alunos nos projetos e pode ser uma forma de aprender uma língua em paralelo. Eu concordo e estou experimentando isso durante a realização da atividade sobre internacionalização. Esse processo de tradução da documentação é oportunidade de trabalhar um vocabulário bem diferente do cotidiano. 
+
+
+## Paulo Meirelles e Leonardo Leite
+* Tema: Gerência de projetos FLOSS: DevOps
+* Elaboração de perguntas sobre o tema: 
+  - A palestra foi confirmada com pouco tempo de antecedência. Não consegui elaborar as perguntas.
+* Resenha:
+  - Eu conhecia o termo de forma bem superficial. Durante minha participação no ICSE 2020, eu pude ver um um [pôster](https://2020.icse-conferences.org/details/icse-2020-poster/11/Building-a-Theory-of-Software-Teams-Organization-in-a-Continuous-Delivery-Context) do Leonardo Leite, mas não cheguei a buscar por outros materiais para melhor entendimento do tema. 
+  - Nessa apresentação, os keynotes Paulo Meirelles e Leonardo Leite apresentaram o conceito de DevOps como sendo um esforço organizacional colaborativo e multidisciplinar para automatizar a entrega contínua de novas atualizações de software. Mais que isso, eles apresentaram esse conceito alinhado com sua aplicação em um cenário real. A apresentação foi fantástica!
+  - Os keynotes apresentaram uma discussão acerca das estruturas organizacionais, nas quais os desenvolvedores e especialistas em infraestrutura podem estar em uma mesma equipe ou separados, para que possam ser coordenadas de forma a fazer entregas contínuas. 
+  - Além disso, os keynotes apresentaram práticas essenciais em DevOps, como o compatilhamento de conhecimento, gerenciamento de código, integração contínua, deployment contínuo e etc., para a produção rápida e segura de aplicações.    
+
+## Rodrigo Rocha
+* Tema: Garantia da Qualidade em projetos FLOSS
+* Elaboração de perguntas sobre o tema:
+  - Uma traditional release é composta por várias rapid releases ou são desenvolvidas de formas separadas? O que quero saber é a relação entre elas e como identificar uma traditional release em um projeto. Tem alguma relação com latest e stable?
+  - Na comparação entre modificações suplementares, modificações inapropriadas e reabertura de issues, a conclusão é que as modificações inapropriadas necessitam de modificações suplementares, mas uma issue reaberta nem sempre é associada com modificações inapropriadas. Por quais outros motivos ela pode ser reaberta sem estar relacionada com modificações inapropriadas e suplementares?   
