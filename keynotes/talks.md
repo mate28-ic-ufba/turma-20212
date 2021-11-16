@@ -54,7 +54,8 @@ Apresentação: TBD
 
 Professor adjunto do Instituto de Computação da Universidade Federal da Bahia (UFBA). Atua principalmente nos seguintes temas: engenharia de software experimental, mineração de repositórios de software, evolução de software, desenvolvimento de aplicativos móveis e desenvolvimento de jogos eletrônicos.
 
-## Ecossistemas de Software Livre: KDE
+
+## Ecossistemas de Software Livre (KDE)
 
 Apresentação: TBD
 
