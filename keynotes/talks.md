@@ -46,6 +46,8 @@ Desenvolvedor de sistemas no Serviço Federal de Processamento de Dados (SERPRO)
 
 ## Issues em Projetos de Software Livre
 
+Apresentação: TBD
+
 ### Rodrigo Rocha Gomes e Souza
 
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4189462A2" height="100" align="left">
@@ -54,7 +56,11 @@ Professor adjunto do Instituto de Computação da Universidade Federal da Bahia 
 
 ## Ecossistemas de Software Livre: KDE
 
+Apresentação: TBD
+
 ### Sandro Andrade
+
+<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4768539A8" height="100" align="left">
 
 Sandro Andrade é professor do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBa). É pesquisador-colaborador do Laboratório de Sistemas Distribuídos (LaSiD - UFBa) e pesquisador-membro do Grupo de Pesquisa em Sistemas Distribuídos, Otimização, Redes e Tempo-Real (GSORT - IFBa). Suas atuais áreas de interesse incluem: arquitetura de software, software livre, engenharia de software experimental, engenharia de software baseada em busca, sistemas distribuídos, sistemas self-adaptive/self-organizing e design science. 
 Trabalhou por muitos anos em projetos envolvendo computação gráfica aplicada à medicina, desenvolvimento de jogos, visão computacional e computação musical. Possui 23 anos de experiência nas áreas de projeto e desenvolvimento de sistemas, em particular no uso das tecnologias C/C++ em ambientes GNU/Linux, Qt (http://www.qt.io/), KDE (http://www.kde.org/) e plataformas de middleware para computação distribuída (CORBA/TAO/CIAO, frameworks para desenvolvimento web e análise de big data). 
