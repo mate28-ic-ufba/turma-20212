@@ -21,7 +21,7 @@
   - Dos 432 contribuidores do projeto, apenas 5 deles contribuiram com a documentação.
 
 - A documentação parece ser relevante? Consistente? 
-  - No quesito, ambientar novos contribuidores, a documentação é relevante. Porém, caso alguem queira contribuir com novas funcionalidades ou correção de buga
+  - No quesito, ambientar novos contribuidores, a documentação é relevante. Porém, caso alguem queira contribuir com novas funcionalidades ou correção de bugs, a documentação não expõe o que tem para ser feito. Os Owners do projeto restrigem muito o que os contribuidores podem fazer.
 
 - São usadas ferramentas para apoiar o processo de documentação? Quais? 
   - Não encontrei o uso de ferramentas que apoiam o processo de documentação
