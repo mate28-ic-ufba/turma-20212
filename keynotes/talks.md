@@ -52,7 +52,7 @@ Apresentação: TBD
 
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4189462A2" height="100" align="left">
 
-Professor adjunto do Instituto de Computação da Universidade Federal da Bahia (UFBA). Atua principalmente nos seguintes temas: engenharia de software experimental, mineração de repositórios de software, evolução de software, desenvolvimento de aplicativos móveis e desenvolvimento de jogos eletrônicos.
+Professor adjunto do Instituto de Computação da Universidade Federal da Bahia (UFBA). Atua principalmente nos seguintes temas: engenharia de software experimental, mineração de repositórios de software, engenharia de releases, evolução de software, geração automática de documentação, desenvolvimento de aplicativos móveis e desenvolvimento de jogos eletrônicos. Em 2017, recebeu o prêmio de Best Mining Challenge Presentation na conferência de Mining Software Repositories (MSR).
 
 
 ## Ecossistemas de Software Livre (KDE)
