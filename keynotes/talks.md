@@ -46,10 +46,25 @@ Desenvolvedor de sistemas no Serviço Federal de Processamento de Dados (SERPRO)
 
 ## Issues em Projetos de Software Livre
 
+Apresentação: TBD
+
 ### Rodrigo Rocha Gomes e Souza
 
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4189462A2" height="100" align="left">
 
-Professor adjunto do Instituto de Computação da Universidade Federal da Bahia (UFBA). Atua principalmente nos seguintes temas: engenharia de software experimental, mineração de repositórios de software, evolução de software, desenvolvimento de aplicativos móveis e desenvolvimento de jogos eletrônicos.
+Professor adjunto do Instituto de Computação da Universidade Federal da Bahia (UFBA). Atua principalmente nos seguintes temas: engenharia de software experimental, mineração de repositórios de software, engenharia de releases, evolução de software, geração automática de documentação, desenvolvimento de aplicativos móveis e desenvolvimento de jogos eletrônicos. Em 2017, recebeu o prêmio de Best Mining Challenge Presentation na conferência de Mining Software Repositories (MSR).
 
 
+## Ecossistemas de Software Livre (KDE)
+
+Apresentação: TBD
+
+### Sandro Andrade
+
+<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4768539A8" height="100" align="left">
+
+Sandro Andrade é professor do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBa). É pesquisador-membro do Grupo de Pesquisa em Sistemas Distribuídos, Otimização, Redes e Tempo-Real (GSORT-IFBa). Suas atuais áreas de interesse incluem: arquitetura de software, software livre, engenharia de software experimental, engenharia de software baseada em busca, sistemas distribuídos, sistemas self-adaptive/self-organizing e design science. 
+Trabalhou em projetos envolvendo computação gráfica aplicada à medicina, desenvolvimento de jogos, visão computacional e computação musical. Possui 23 anos de experiência nas áreas de projeto e desenvolvimento de sistemas, em particular no uso das tecnologias C/C++ em ambientes GNU/Linux, Qt (http://www.qt.io/), KDE (http://www.kde.org/) e plataformas de middleware para computação distribuída (CORBA/TAO/CIAO, frameworks para desenvolvimento web e análise de big data). 
+Possui certificação Qt Specialist (Qt Essentials e Core C++ for Qt Developers) e é colaborador veterano em comunidades de software livre tais como o Qt e o KDE, 
+tendo organizado e participado de eventos tais como FISL, Latinoware, Akademy, LaKademy, Qt Dev Days e diversos developer sprints do KDE. 
+Foi membro do Board de Diretores do KDE e.V (http://ev.kde.org - 2015 a 2018) e do KDE Marketing Working Group (2009 - 2012).
