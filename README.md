@@ -76,8 +76,8 @@ Data | Semana | Tópico | Quem?
 05/11/2021 | 13 | Contribuição em projetos FLOSS 4: __Triagem de Bugs__ | --
 12/11/2021 | 14 | [Issues em Projetos FLOSS](keynotes/talks.md#issues-em-projetos-de-software-livre) | [Prof. Rodrigo Rocha Gomes e Souza (UFBA)](keynotes/talks.md#rodrigo-rocha-gomes-e-souza)
 19/11/2021 | 15 | Contribuição em projetos FLOSS 5: __Resolução de Bugs__ | --
-26/11/2021 | 16 | Ecossistemas de Software Livre | --
-03/12/2021 | 17 | Encerramento | Apresentação e confraternização
+26/11/2021 | 16 | Ecossistemas de Software Livre: KDE (kde.org) | 13h-14:45h: Apresentação de trabalhos (I). 15h: [Prof. Sandro Andrade (IFBA)](keynotes/talks.md#sandro-andrade)
+03/12/2021 | 17 | Encerramento | Apresentação de trabalhos (II) e Confraternização.
 
 ## Leituras 
 
