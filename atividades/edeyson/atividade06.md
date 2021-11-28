@@ -6,8 +6,15 @@
 **Parte 1**  
 
 -   Há partes do projeto (interface de usuário, documentação, website) preparadas para tradução ("internationalization" - I18N)?
-	- Não. A tradução é via arquivos json, mapeando de inglês para outro idioma. Por exemplo, o arquivo https://github.com/TheAlgorithms/website/blob/main/public/locales/es/categories.json:
-
+	- Sim. 
+	- No arquivo https://github.com/TheAlgorithms/website/blob/main/hooks/translation.ts tem-se:
+		- import { useTranslation as useNextTranslation } from "next-i18next";
+	- O projeto usa I18N e arquivos JSON são gerados a partir das marcações para tradução. Por exemplo, no arquivo https://github.com/TheAlgorithms/website/blob/main/pages/algorithm/%5Balgorithm%5D.tsx:
+		- import useTranslation from "hooks/translation";
+		- const t = useTranslation();
+		- description={t(algorithm.body[locale] || algorithm.body.en? "algorithmMetaDescriptionExplained"
+            		: "algorithmMetaDescription", {...
+	- Como exemplo de tradução com json, mapeando de inglês para o espanhol, tem-se o arquivo https://github.com/TheAlgorithms/website/blob/main/public/locales/es/categories.json:
 			"conversions": "Conversiones",
 			"computervision": "Visión de ordenador",
 			"compression": "Compresión",
@@ -23,6 +30,7 @@
 	
 -   Qual o formato utilizado?
 	- Utiliza-se um arquivo texto (.json) com as traduções.
+	
 -   Há uma equipe fazendo tradução para Português do Brasil (pt-br)?
 	- Não, ainda não há projeto para o Português.
 	- Os idiomas suportados são: Inglês, Alemão, Chinês, Croata, Espanhol, Esperanto, Hindi, Italiano, Russo e Ucraniano.
