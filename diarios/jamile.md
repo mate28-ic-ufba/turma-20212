@@ -122,7 +122,8 @@ Nesta semana:
 - Realizei a tradução completa da página [Note input](https://musescore.org/pt-br/node/278615).
 - Realizei a tradução completa da página [Choir](https://musescore.org/pt-br/node/246701).
 - Realizei a tradução completa da página [Piano](https://musescore.org/pt-br/piano).
-- Traduzi o restante dos termos que ainda estavam em inglês no [Home do projeto](https://musescore.org/pt-br). Tive um problema para atualizar o título da página. Entrei em contato via Discord e prontamente apareceu alguém pare me ajudar.
+- Traduzi o restante dos termos que ainda estavam em inglês no [Home do projeto](https://musescore.org/pt-br). 
+Tive um problema para atualizar o título da página. Entrei em contato via Discord e prontamente apareceu alguém pare me ajudar.
 
 
 ## 26/11/2021
@@ -136,6 +137,5 @@ Para a minha atividade, peguei a issue para realizar a tradução da página CON
 **Palestra com Sandro Andrade sobre KDE**
 
 Impressões sobre a palestra em [atividade_kde.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_kde.md).
-
 
 
