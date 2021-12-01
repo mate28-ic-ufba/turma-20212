@@ -1,0 +1,20 @@
+---
+title: "Base de dados iris"
+output:ioslides_presentation
+---
+
+# Dados iris 
+
+## Informações gerais | Categorias
+
+- Sepal.Length
+
+- Sepal.Width
+
+- Pental.Lenght
+
+- Petal.Width
+ 
+- Species
+
+
