@@ -3,7 +3,7 @@ title: "Base de dados iris"
 output:ioslides_presentation
 ---
 
-# Dados iris 
+# Dados iris. 
 
 ## Informações gerais | Categorias
 
