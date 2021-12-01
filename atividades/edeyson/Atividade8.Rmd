@@ -16,6 +16,3 @@ output:ioslides_presentation
 - Petal.Width
  
 - Species
-
-
-
