@@ -1,4 +1,4 @@
-## Atividade 8: Sobre KDE e ecossistemas de SL: qual a sua visão crítica sobre o assunto e a palestra?
+## Atividade Sobre KDE e ecossistemas de SL: qual a sua visão crítica sobre o assunto e a palestra?
 
 - Embora tenha pouco conhecimento do mundo Linux, já conhecia algumas características técnicas do KDE. Porém, sua integração com o Qt, seu ambiente de construção e manutenção foram novidades apresentadas na palestra. 
 - Outro ponto relevante a ressaltar da palestra foi a apresentação da estrutura da comunidade KDE, com seus colaboradores voluntários e remunerados, seu quadro de "gestores" e como ocorre a captação de recursos financeiros.
