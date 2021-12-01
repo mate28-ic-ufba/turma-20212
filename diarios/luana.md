@@ -1,5 +1,7 @@
 # Diário de Luana
 
+> **_NOTA:_**  Os resumos das apresentações dos keynotes estão no mesmo diretório que as atividades de caracterização do projeto FLOSS (../turma-20212/tree/main/atividades/luana/)
+
 ## 03/09/21
 
 * Seleção do diário [Star_book](https://github.com/hashirshoaeb/star_book) para reconhecimento técnico.
@@ -69,3 +71,28 @@
 - Submeti o PR [1758](https://github.com/spotbugs/spotbugs/pull/1758).
 - Os revisões solicitaram algumas modificações.
 - Melhorei meu PR com as sugestões dos revisores.
+
+## 25/10 e 26/10
+- Criei um projeto independente para a tradução do [ReadTheDocs](https://readthedocs.org/projects/spotbugslm-pt/) para PT-BR.
+- Estudei como configurar o projeto principal para apontar para os projetos traduzidos
+- Traduzi arquivos (5/20).
+- Iniciei a atividade 06.
+
+## 31/10
+- Traduzi arquivos (13/20).
+- Enviei um email para Kengo Toda falando sobre a tradução da documentação para PT-BR. Preciso que ele me dê acesso de mantenedor no ReadTheDocs para configurar a nova tradução. Assim que obtiver uma resposta, farei o PR. 
+- Escrita do resumo sobre a apresentação do Paulo Meirelles e Leonardo Leite
+
+## 01/11
+- O Kengo Toda respondeu meu email. Para guiar outras pessoas que queiram fazer contribuições similares, ele pediu para que eu criasse uma discussão no GitHub e vai descrever os passos necessários. Então, criei a discussão [Translation of SpotBugs manual](https://github.com/spotbugs/spotbugs/discussions/1786).  
+
+## 02/11, 03/11, 04/11 e 05/11
+- Traduzi arquivos (18/20).
+- Estou no arquivo bugDescriptions.po e ainda falta traduzir o arquivo detectors.po. Cada arquivo com mais de 5 mil linhas.
+- Resolvi fazer um [PR](https://github.com/spotbugs/spotbugs/pull/1796) com o que já tinha traduzido e vou trabalhar nesses outros pouco a pouco.
+- O KengoToda me ajudou com a configuração do [ReadTheDocs stable](https://spotbugs.readthedocs.io/en/stable/). 
+
+## 11/11
+- Merge do meu PR sobre documentação com a master. A documentação vai ser lançada na versão 4.5.0 =D
+- Leitura dos materiais para familiarização com o tema a ser apresentado pelo professor Rodrigo.
+- Elaboração das questões para participação na palestra.
