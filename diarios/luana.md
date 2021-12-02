@@ -103,3 +103,6 @@
 
 ## 27/11
 - Escrita da resenha sobre a apresentação do Sandro.
+
+## 01/12 e 02/12
+- Preparação dos slides utilizando R Markdown
