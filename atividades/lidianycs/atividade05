@@ -1,0 +1,47 @@
+# Parte I
+
+**Onde é encontrada a documentação do projeto?**
+A documentação do projeto está disponível no site https://teammatesv4.appspot.com/ e também no github https://github.com/TEAMMATES/teammates/tree/master/docs. 
+
+
+**Que tipo de documentação existe?**
+
+Existe a documentação para desenvolvedores, contribuidores e para os usuários do sistema:
+
+| Documentação para: | Item |
+| :------------- | :------------- |
+| Estudantes | Help for Students |
+|  | Getting Started |
+|  | Frequently Asked Questions|
+| Instructors | Help for Instructors |
+
+| Desenvolvedores | Documentation For Developers |
+|  | Main documents|
+|  | Supplementary documents|
+|  | How-to documents|
+
+| Contribuidores | Contributing to TEAMMATES |
+|  | Getting started |
+|  | How can I contribute?|
+|  | Contributor orientation guide |
+
+
+**Como contribuir com a documentação do projeto?**
+As issues relacionadas a documentação estão disponíveis no repositório com o label a-Docs. É possível escolher uma issue e fazer um pull request.
+
+**Quando ocorre atualização na documentação?**
+Após enviar o pull request com a contribuição, deve ser feito o merge no repositório da documentação.
+
+
+**Quando uma mudança na funcionalidade do software, a documentação é atualizada ao mesmo tempo?**
+Não há informação sobre isso na documentação.
+
+**Existem pessoas no projeto mais dedicadas à atividade de documentação?**
+Não foi informado.
+
+
+**A documentação parece ser relevante? Consistente?**
+Sim, há ampla documentação, tanto para suporte dos usuários, quanto dos desenvolvedores.
+
+**São usadas ferramentas para apoiar o processo de documentação? Quais?** Sim.
+Não foi informado.

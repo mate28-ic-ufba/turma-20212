@@ -1,0 +1,30 @@
+## Reconhecimento Técnico
+
+### Parte I - Descrição do projeto
+
+- Nome: Open Drinks
+- Sites
+  - Website: opendrinks.io
+  - Repositório: https://github.com/alfg/opendrinks
+- Descrição:
+  - It's a big open source repository of drinks
+
+## Parte II - Reconhecimento Inicial 
+
+- Há quanto tempo o projeto existe? Descreva brevemente o histórico do projeto.
+  - Primeiro release em outubro de 2019. Foram realizados 5 releases
+- Qual a licença do projeto?
+  - MIT
+- Qual o tamanho do projeto (linhas de código, classes)?
+  - LOC: 43970(https://line-count.herokuapp.com/yoda-pa/yoda)
+  - LOC: 44814(https://codetabs.com/count-loc/count-loc-online.html)
+- O tamanho do projeto tem crescido nas últimas versões?
+  - Sim, ele teve dois momentos de grande crescimento, logo a sua criação e em outubro de 2020. Após isso, a quantidade de atualização foi pequena.
+
+- Existe atividade recente no projeto?
+  - Alguns commits recentes e pull request a 2 dias.
+- Existe colaboração de empresas no projeto?
+  - Não encontrei empresas colaboradoras
+- Quais as tecnologias usadas?
+  - Vue
+  - Json
