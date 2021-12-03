@@ -122,67 +122,25 @@ Nesta semana:
 - Realizei a tradução completa da página [Note input](https://musescore.org/pt-br/node/278615).
 - Realizei a tradução completa da página [Choir](https://musescore.org/pt-br/node/246701).
 - Realizei a tradução completa da página [Piano](https://musescore.org/pt-br/piano).
-- Traduzi o restante dos termos que ainda estavam em inglês no [Home do projeto](https://musescore.org/pt-br). Tive um problema para atualizar o título da página. Entrei em contato via Discord e prontamente apareceu alguém pare me ajudar.
-
-## 15/10/2021
-
-**Palestra na Aula**
-
-Na aula de hoje houve apresentação com Antônio Terceiro, membro do projeto Debian. Foi interessante ver a experiência de alguém frente a um projeto de grande porte e em atividade.
+- Traduzi o restante dos termos que ainda estavam em inglês no [Home do projeto](https://musescore.org/pt-br). 
+Tive um problema para atualizar o título da página. Entrei em contato via Discord e prontamente apareceu alguém pare me ajudar.
 
 
-## 22/10/2021
-
-**Aula** 
-
-Essa semana não tivemos aula. 
-
-**FLOSS**
-
-Seguindo com as colaborações com o FLOSS, realizei a revisão de vários termos disponíveis no transifex, relacionados ao software do MuseScore propriamente dito. A versão PT-BR já está 100% traduzida, então não há espaço para novas traduções nesta esfera. Como previsto, acredito ser mais proveitoso concentrar os trabalhos na documentação e manual, que ainda conta com muitos textos sem tradução.
-
-## 29/10/2021
-
-**Encaminhamento das atividades no FLOSS**
-
-Sigo realizando a colaboração com o FLOSS. 
-Nesta semana:
-- Realizei a tradução completa da página "Helping to improve translations", disponibilizada [aqui](https://musescore.org/pt-br/node/278653).
-- Realizei uma revisão completa, atualização e tradução que faltava para a página "Handbook for MuseScore 3", disponibilizada [aqui](https://musescore.org/pt-br/handbook). A versão anterior estava parcialmente traduzida e com versão defasada, tendo vários itens inconsistentes com a versão original.
-
-**Palestra na Aula**
-
-Na aula de hoje houve a apresentação de palestra com Paulo Meirelles e Leonardo sobre DevOps, assunto completamente novo para mim. 
-No começo fiquei um pouco perdida mas, aos poucos, fui compreendendo tratar-se de um espaço para melhor estruturação de entregas contínuas em sistemas colaborativos.
-Apresentadores possuiam ótimo conhecimento prático sobre o assunto, o que facilitou este momento para compreensão inicial do assunto.
-
-## 05/11/2021
-
-**Encaminhamento das atividades no FLOSS**
-
-Sigo realizando a colaboração com o FLOSS. 
-Nesta semana:
-- Realizei a tradução completa da página "Create a new score", disponibilizada [aqui](https://musescore.org/pt-br/node/278622).
+## 26/11/2021
 
 **Aula**
 
-Durante a aula foi apresentada por cima questões sobre bugs e issues, tendo sido exibida partes da tese do professor Rodrigo Rocha, e rastreadas issues em GitHub.
-
-## 07/11/2021
-
-**Realização da Atividade 07**
-
-Atividade relacionada a Utilização de Issue Tracker, disponível no arquivo [atividade_07.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_07.md).
+Atividade em aula coordenada por Levy, simulando um projeto colaborativo onde a turma participou resolvendo issues. 
+Para a minha atividade, peguei a issue para realizar a tradução da página CONTRIBUTE, de português para inglês, disponível no arquivo [contribute.en.md](https://github.com/jamilevasconcelos/bugs-sandbox/blob/main/CONTRIBUTE.en.md).
 
 
-## 10/11/2021
+**Palestra com Sandro Andrade sobre KDE**
 
-**Encaminhamento das atividades no FLOSS**
+Impressões sobre a palestra em [atividade_kde.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_kde.md).
 
-Sigo realizando a colaboração com o FLOSS. 
-Nesta semana:
-- Realizei a tradução completa da página [Note input](https://musescore.org/pt-br/node/278615).
-- Realizei a tradução completa da página [Choir](https://musescore.org/pt-br/node/246701).
-- Realizei a tradução completa da página [Piano](https://musescore.org/pt-br/piano).
-- Traduzi o restante dos termos que ainda estavam em inglês no [Home do projeto](https://musescore.org/pt-br). Tive um problema para atualizar o título da página. Entrei em contato via Discord e prontamente apareceu alguém pare me ajudar.
 
+## 03/12/2021
+
+**Aula**
+
+Nesta última semana de aula preparei os slides para a apresentação do FLOSS, disponível em [atividade_08.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_08.md).

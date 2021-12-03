@@ -43,7 +43,7 @@ Registra-se os números:
 
 | Item  |  |
 | :------------- | :------------- |
-| Números de Apoiantes | 3730 comentários nos últimos 30 dias|
+| Números de Apoiadores | 3730 comentários nos últimos 30 dias|
 | Número de Desenvolvedores | 32 ativos|
 | Número de tradutores  | 1189 |
 | Idiomas traduzidos| 69 |
@@ -74,7 +74,7 @@ https://github.com/musescore/MuseScore
 
 
 **Qual ferramenta de controle de versão é utilizada?** 
-Git.
+GitHub.
 
 **Onde fica o repositório de bugs?**
 [Na própria página do software.](https://musescore.org/en/project/issues/musescore)
