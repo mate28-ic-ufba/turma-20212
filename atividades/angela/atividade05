@@ -1,0 +1,30 @@
+Atividade 5: Como é a documentação do projeto OSS escolhido?
+
+Atividade sobre Documentação
+
+**- Entrega:**  Via GitHub.  
+
+Questões
+
+Parte 1
+
+    Onde é encontrada a documentação do projeto?
+        A documentação pode ser encontrada no site https://www.doxygen.nl/manual/index.html e no GITHUB https://github.com/doxygen/doxygen/tree/master/doc
+
+Documentação existente
+
+    Documentação para usuários
+        O site https://www.doxygen.nl/manual/index.html possui documentos sobre a ferramenta.
+        
+    Documentação para contribuidores
+        Há arquivos que orientam como as contribuições podem ser feitas nos projetos :README.md)
+
+    Como contribuir com a documentação do projeto? Ex.: editar wiki, dar um commit, enviar e-mail para desenvolvedor...
+        Enviando email para desenvolvedor 
+
+    Existem pessoas no projeto mais dedicadas à atividade de documentação?
+        Atualmente existe pessoas envolvidas com a internacionalização da documentação.
+
+    A documentação parece ser relevante? Consistente?
+        A documentação presente é bem estruturada, toda particionada o que deixa claro o uso da aplicação
+
