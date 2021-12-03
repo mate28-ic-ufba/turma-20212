@@ -139,3 +139,8 @@ Para a minha atividade, peguei a issue para realizar a tradução da página CON
 Impressões sobre a palestra em [atividade_kde.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_kde.md).
 
 
+## 03/12/2021
+
+**Aula**
+
+Nesta última semana de aula preparei os slides para a apresentação do FLOSS, disponível em [atividade_08.md](https://github.com/mate28-ic-ufba/turma-20212/blob/main/atividades/jamile/atividade_08.md).
