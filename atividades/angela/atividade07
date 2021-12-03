@@ -1,0 +1,30 @@
+## Atividade 7: Como seu projeto utiliza “issue tracker”?
+
+1. Qual a ferramenta de ***issue tracker*** usada em seu projeto? Há ferramentas externas?
+    - Tem o proprio GitHub e no site
+  
+2. Desde o início do projeto, qual o número total de issues?
+    - De acordo com o github tem 1961 *issues* abertas e 4841 *issues* fechadas
+ 
+3. Qual a média por ano de *issues* no projeto? 
+    - Considerando a primeira *issue* em 2018, de acordo com o github temos 3 anos de rastreabilidade. Logo, tem-se uma média de aproximadamente 2mil *issues* por ano.
+
+4. Qual a média de *issues* resolvidas?  
+      - No yotal tem 4841 *issues* fechadas, o que corresponde a uma média de aproximadamente 1600 por ano
+  
+  
+5. Em 2021, quantas *issues* foram abertas e quantas foram resolvidas?  
+    - Utilizando o filtro: is:issue is:open created:>2021-01-01 tivemos 176 abertas e 120 fechadas.
+  
+6. Escolha ao menos 3 issues de seu projeto, sendo ao menos aberta (“open”), e uma fechada (“closed”), cada uma com ao menos 3 comentários, e conte a estória resumida da issue, incluindo labels/tags usados, referência(s) a outras issues, pedido de explicação da solução, resolução de conflitos, se houve indicação de duplicação de issue, se há integração contínua (com uso de testes automatizados? com análise estática de código? outros?).  
+	    - issue aberta:   Parser does not recognise __section("name") #8936 
+        - Contem um report de um possivel erro. 
+		    - Imediatamente um contribuidor informou que não se tratava de um erro 
+		    - E quem abriu verificou que estava fazendo da maneira errada. 
+
+	  -  issue fechada:  Missclassifying public field when using coma to initialize several at once in C#. #8718 
+		  - Após uma breve discussão sobre a simulação do ocorrido, um conotrbuidor verificou que era erro e realizou um merge request corrigindo o problema solicitado.
+  
+    -   issue aberta:  [PATCH] Typo in install documentation #8934 
+	    - O big foi descrito, incluiu-se a tag erro e neste momento esta com um pedido de pull. 
+  
