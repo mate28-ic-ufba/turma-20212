@@ -6,7 +6,7 @@ Diário de Angela
 
 Foi selecionado o Rewrite: https://github.com/openrewrite/rewrite-gradle-plugin
 
-10/069/2021
+10/09/2021
 
     Escolha de um projeto FLOSS para realizar contribuição
     
