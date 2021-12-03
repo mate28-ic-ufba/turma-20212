@@ -96,3 +96,13 @@
 - Merge do meu PR sobre documentação com a master. A documentação vai ser lançada na versão 4.5.0 =D
 - Leitura dos materiais para familiarização com o tema a ser apresentado pelo professor Rodrigo.
 - Elaboração das questões para participação na palestra.
+
+## 12/11
+- Realização da atividade 07.
+- Escolha e descrição de 03 issues do projeto SpotBugs.
+
+## 27/11
+- Escrita da resenha sobre a apresentação do Sandro.
+
+## 01/12 e 02/12
+- Preparação dos slides utilizando R Markdown

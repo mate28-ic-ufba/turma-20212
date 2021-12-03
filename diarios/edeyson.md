@@ -23,7 +23,7 @@ Foi selecionado o https://github.com/TheAlgorithms por ser mais familiar, por ab
 	Acessei o Git para ver mais detalhes do TheAlgorithm (meu projeto FLOSS de escolha).
 Iniciei a participação em alguns repositórios e descobri que meu e-mail virou um desastre total, inundado de mensagens. Criei regras no Gmail para redirecionar as mensagens para pastas adequadas que criei. Cada projeto, agora, possui sua pasta no Gmail.
 
-+ Tivemos uma palestra sobre licenças de software com o Nelson Mandela.
++ Tivemos uma palestra sobre licenças de software com o Nelson Lago.
 
 A apresentação sobre foi bastante esclarecedora para dirimir uma série de dúvidas.
 Fiz a leitura antecipada sobre licenças, seguindo as referências recomendadas (opensource.org e no fsf.org), o que me permitiu compreender a diversidade e a complexidade de algumas delas. A leitura do livro do Gustavo Pinto também ajudou a compreender uma série de problemas que ocorre com a multiplicidade das licenças.
@@ -73,3 +73,6 @@ O destaque da apresentação foi na classificação das licenças em 3 grupos, f
 - Li a tese de Rodrigo Rocha e aprendi muita coisa sobre Issue e mudanças de código em Floss.
 - Respondi a atividade 7, relacionada ao tema.
 - Continuo fuçando repositórios de FLOSS usando os conhecimentos aprendidos e bastante empolgado.
+
+## Semanas finais da Disciplina
+- Tivemos uma excelente palestra com Sandro Andrade sobre o KDE e seus projetos derivados e parceiros.
