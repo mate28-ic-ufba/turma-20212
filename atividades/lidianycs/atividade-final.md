@@ -75,3 +75,9 @@ Aulas na sexta a tarde (cansativo)
 Ambientação inicial  no Github
 
 Mais atividades práticas como guia antes de interagir com as comunidades
+
+# Thanks!
+
+![bg center 50% ](https://img.youtube.com/vi/0FHEeG_uq5Y/0.jpg)
+
+
