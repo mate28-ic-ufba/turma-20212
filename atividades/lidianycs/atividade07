@@ -1,1 +1,80 @@
-//criação do arquivo
+# Atividade 07 - Como seu projeto utiliza  “issue tracker”?
+
+** 1. Qual a ferramenta de issue tracker usada em seu projeto? Há ferramentas externas?
+
+Não há ferramenta externa, somente o próprio github.
+
+** 2. Desde o início do projeto, qual o número total de issues? Qual a média por ano de issues no projeto? Qual a média de issues resolvidas?
+1236 issues criadas desde 2019, com uma média de 618 issues por ano. Foram resolvidas 1146 no total.
+
+
+** 3. Em 2021, quantas issues foram abertas e quantas foram resolvidas?
+Em 2021, 36 issues foram abertas e 32 resolvidas.
+
+** 4. Escolha ao menos 3 issues de seu projeto, sendo ao menos aberta (“open”), e uma fechada (“closed”), cada uma com ao menos 3 comentários, 
+e conte a estória resumida da issue, incluindo labels/tags usados, referência(s) a outras issues, pedido de explicação da solução, resolução de conflitos, 
+se houve indicação de duplicação de issue, se há integração contínua (com uso de testes automatizados? com análise estática de código? outros?).
+
+##Issue 1 - URL Fragment Identifier bug on H4 headings [#3892](https://github.com/ethereum/ethereum-org-website/issues/3892) 
+![](https://user-images.githubusercontent.com/62268199/133103282-9e18bd11-23da-4339-bb02-eb61e10be13b.png)
+
+O título está cortado na parte superior da tela pelo nav e pelo subnav. Esse problema ocorre apenas em H4s.
+
+| | | 
+| :------------- | :------------- | 
+| Criada em: | 13/set/21 |
+| Status: | Fechada |
+| Label: | bug - help wanted - high priority - good first issue  |
+| Participantes:| 02 |
+| Comentários: | 02 |
+
+@minimalsm abriu a issue em 13 de setembro
+@calvinsomething comentou em 14 de setembro
+@calvinsomething enviou um commit em 15 de setembro
+@minimalsm  fechou a issue em # 3913 em 16 de setembro
+@minimalsm fez um merge do pull request #3913 de @calvinsomething 
+@minimalsm minimalsm mencionou esse problema em 20 de setembro Deploy v2.41.0 # 3961
+
+##Issue 2 - Horizontal scrolling on Whitepaper (mobile) [#4142](https://github.com/ethereum/ethereum-org-website/issues/4142)
+![](https://user-images.githubusercontent.com/62268199/136011281-8d7a753d-845c-4a11-8009-9483825f3e82.png)
+
+O whitepaper exibe rolagem horizontal em navegador mobile.
+| | | 
+| :------------- | :------------- | 
+| Criada em: | 05/out/21 |
+| Status: | Merged |
+| Label: | bug - help wanted - high priority - good first issue - hacktoberfest   |
+| Participantes:| 03 |
+| Comentários: | 06 |
+
+@minimalsm abriu a issue em 5 de outubro
+@julian-st comentou em 5 de outubro
+@minimalsm comentou em 5 de outubro
+@mradziwon comentou em 5 de outubro
+@mradziwon adicionou um commit que referenciou essa issue em 7 de outubro
+@minimalsm adicionou o label Status: In Progress em 7 de outubro
+@minimalsm vinculou um pull request que encerrará esta issue em 7 de outubro
+m@inimalsm fechou # 4166 em 14 de outubro
+@minimalsm adicionou um commit que referenciou esta issue em 14 de outubro
+@minimalsm fez Merge pull request # 4166 de @mradziwon
+@wackerow  mencionou esse issue em 23 de outubro /Deploy v2.45.0 # 4287
+
+##Issue 3 - Link on titles being slightly tedious to click [#4487](https://github.com/ethereum/ethereum-org-website/issues/4487)
+Ao passar o mouse sobre um título em uma página, o botão do ícone de link  não aparece a menos que você passe o mouse sobre o título primeiro e depois mova o cursor até o ícone.
+
+| | | 
+| :------------- | :------------- | 
+| Criada em: | 18/11/21 |
+| Status: | Open |
+| Label: | bug - help wanted - good first issue   |
+| Participantes:| 02 |
+| Comentários: | 0 |
+
+@Kamushy abriu a issue há 8 dias
+@Kamushy comentou 8 dias atrás
+@Kamushy adicionou o label bug 🐛 8 dias atrás
+@minimalsm  adicionou "good first issue" "help wanted"  há 8 dias
+@arghyab0  mencionou essa issue há 8 dias
+
+++
+
