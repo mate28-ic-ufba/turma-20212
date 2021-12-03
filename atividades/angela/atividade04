@@ -1,0 +1,62 @@
+Reconhecimento Técnico do Projeto Escolhido
+Parte I - Descrição do projeto
+
+Link: https://github.com/doxygen/doxygen
+
+Nome: Doxygen
+
+Sites:
+
+    Website: https://www.doxygen.nl/
+    Repositório: https://github.com/doxygen/doxygen
+
+Descrição:
+
+    TheAlgoritms é um repositório cujo objetivo é auxiliar o ensino e aprendizado de estruturas de dados e algoritmos através de recursos de código aberto com implementação em diversas linguagens de programação.
+
+    O objetivo principal é o trabalho cooperativo, onde todos se ajudam para documentar, modelar e implementar algoritmos úteis e interessantes
+
+    É um projeto bem acolhedor, bastante aberto a contribuições e disponibiliza contatos via Twitter, Gitter, Discord e e-mail.
+    
+    
+    Doxygen é a ferramenta padrão de fato para gerar documentação de fontes C ++ anotadas, mas também suporta outras linguagens de programação populares, como C, 
+    Objective-C, C #, PHP, Java, Python, IDL (Corba, Microsoft e UNO / Versões do OpenOffice), Fortran, VHDL e, até certo ponto,
+
+    O Doxygen pode gerar um navegador de documentação on-line (em HTML) e / ou um manual de referência off-line (em LaTeX) a partir de um conjunto de arquivos de origem documentados. Também há suporte para geração de saída em páginas de manual RTF (MS-Word), PostScript, PDF com hiperlink, HTML compactado, DocBook e Unix. A documentação é extraída diretamente das fontes, o que torna muito mais fácil manter a documentação consistente com o código-fonte.
+   Pode ser configurado para extrair a estrutura do código de arquivos de origem não documentados. e visualizar as relações entre os vários elementos por meio de incluir gráficos de dependência, diagramas de herança e diagramas de colaboração, que são gerados automaticamente.
+    
+Parte II - Reconhecimento Inicial
+
+    Há quanto tempo o projeto existe? Descreva brevemente o histórico do projeto.
+
+        O projeto foi criado em 1997.
+
+    Qual a licença do projeto?
+
+        O código-fonte do próprio site (o repositório) tem a licença GNU General Public License. 
+
+Qual o tamanho do projeto (linhas de código, classes)?
+
+   Versão mais atual dos Repositórios
+
+    Estimativas feitas com o Count LOC
+ ADD
+
+Files 	Lines 	Blanks 	Comments 	Lines of Code
+801 	418976 	31376 	49345 	338255
+
+O tamanho do projeto tem crescido nas últimas versões?
+
+  Sim
+
+Existe atividade recente no projeto?
+
+Sim, todos os repositórios estão com commits recentes
+
+Existe colaboração de empresas no projeto?
+
+Não.
+
+Quais as tecnologias usadas?
+
+As linguagens usadas para o desenvolvimento dos recursos são: C, JQUERY
