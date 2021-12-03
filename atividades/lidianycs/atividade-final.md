@@ -39,22 +39,25 @@ Porém, a comunidade não é receptiva
 
 
 # Acertos
-Mudança para site do [Ethereum](https://github.com/ethereum/ethereum-org-website)
+Mudança para site do [Ethereum](https://github.com/ethereum/ethereum-org-website) ![bg right:30% 80%](https://github.com/ethereum/ethereum-org-website/raw/dev/eth-transparent.png)
   
-Comunidade mais aberta ![bg right:50% 100%](crowdin.jpg)
+Comunidade mais aberta
 
-1519 palavras traduzidas no [Crowdin](https://crowdin.com/project/ethereum-org/)
-
-Esperando POAP (Proof of Attendance Protocol) 1k
 
 
 # Surpresas
 
-Baixa receptividade em algumas comunidades
+Baixa receptividade no TEAMMATES
 
-Rapidez na resolução das *issues*
+Rapidez na resolução das *issues* devido ao Hacktoberfest
 
-Convite para participar da equipe de tradução
+Convite para equipe de tradução do Ethereum.org
+
+# Resultados
+
+1519 palavras traduzidas (https://crowdin.com/project/ethereum-org/) ![bg right:50% 80%](crowdin.jpg)
+
+Esperando POAP [(Proof of Attendance Protocol)](https://ethereum.org/en/contributing/#poap) 
 
 
 # Dificuldades
