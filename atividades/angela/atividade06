@@ -1,0 +1,19 @@
+**Atividade sobre Tradução**  
+  
+
+**Questões**  
+
+**Parte 1**  
+
+-   Há partes do projeto (interface de usuário, documentação, website) preparadas para tradução ?
+	- Sim. No arquivo https://github.com/doxygen/doxygen/blob/master/src/translator.h tem as traduções suportadas. 
+  
+	
+-   Quais as ferramentas usadas para apoiar o processo de tradução ("localization" - L10N)?
+	- No arquivo https://github.com/doxygen/doxygen/blob/master/LANGUAGE.HOWTO tem um passo a passo de como adicionar um novo idioma. 
+	
+-   Qual o formato utilizado?
+	- Arquivo (.h).
+	
+-   Há uma equipe fazendo tradução para Português do Brasil (pt-br)? 
+	- Sim. Ver arquivo https://github.com/doxygen/doxygen/blob/master/src/translator_br.h. 
