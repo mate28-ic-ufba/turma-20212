@@ -4,6 +4,18 @@
 
 **Foco:** Práticas e Reflexões sobre Contribuição em Projetos de Software Livre
 
+  * [Ementa](#ementa)
+  * [Programa](#programa)
+  * [Métodos](#m-todos)
+  * [Atividades e Avaliação](#atividades-e-avalia--o)
+  * [Calendário da UFBA](#calend-rio-da-ufba)
+  * [Plano de Aulas (pode sofrer ajustes)](#plano-de-aulas--pode-sofrer-ajustes-)
+  * [Leituras](#leituras)
+    + [Leituras essenciais (reproduzido do texto original de](#leituras-essenciais--reproduzido-do-texto-original-de)
+    + [Leituras de primavera](#leituras-de-primavera)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## Ementa
 
 Apresentação de práticas e reflexões em grupo sobre contribuição em projetos de Software Livre, incentivando a participação do aluno em projetos de Software Livre.
@@ -22,7 +34,7 @@ Conceitos básicos de FLOSS, aspectos econômicos e legais, organização social
 ## Métodos
 
 - Aulas síncronas, invertidas, com (pré-) leitura e discussão durante os encontros semanais.
-- Mini-palestras (20-30 minutos) com brasileiras/os da comunidade FLOSS, seguidas por perguntas e discussões.
+- Mini-palestras (30 a 45 minutos) com brasileiras/os da comunidade FLOSS, seguidas por perguntas e discussões.
 - Engajamento e contribuição em projeto FLOSS escolhido pelo estudante, com tutoria.
 - Uso contínuo da plataforma GitHub para mediar atividades
 - Diários e apresentações _stand-up_ 
@@ -47,26 +59,25 @@ Aulas às sextas-feiras, de 13:00 às 15:45h
 
 ## Plano de Aulas (pode sofrer ajustes)
 
-Data | Semana | Tópico
--- | -- | --
-13/08/2021 | 1 | Apresentação da disciplina
-20/08/2021 | 2 | Apresentação da disciplina; O que é FL/OSS?
-27/08/2021 | 3 | Desenvolvimento de projetos FLOSS
-03/09/2021 | 4 | Seleção de projetos FLOSS
-10/09/2021 | 5 | Familiarização com projetos FLOSS
-17/09/2021 | 6 | Aspectos Legais de FLOSS
-24/09/2021 | 7 | Contribuição em FLOSS 1
-01/10/2021 | 8 | Open Science, OSS, Sustainability
-08/10/2021 | 9 | Contribuição em FLOSS 2
-15/10/2021 | 10 | Organização Social de FLOSS
-22/10/2021 | 11 | Contribuição em FLOSS 3
-29/10/2021 | 12 | Gerência de projetos FLOSS
-05/11/2021 | 13 | Contribuição em projetos FLOSS 4
-12/11/2021 | 14 | Garantia da Qualidade em projetos FLOSS
-19/11/2021 | 15 | Contribuição em projetos FLOSS 5
-26/11/2021 | 16 | Aspectos Econômicos de FLOSS
-03/12/2021 | 17 | Encerramento
-
+Data | Semana | Tópico | Quem?
+-- | -- | -- | --
+13/08/2021 | 1 | Apresentação da disciplina | --
+20/08/2021 | 2 | O que é FL/OSS? | --
+27/08/2021 | 3 | Desenvolvimento de projetos FLOSS | --
+03/09/2021 | 4 | __Seleção__ de projetos FLOSS | --
+10/09/2021 | 5 | __Familiarização__ com projetos FLOSS | --
+17/09/2021 | 6 | [Aspectos Legais de FLOSS](keynotes/talks.md#licen%C3%A7as-de-software) | [Nelson Lago](keynotes/talks.md#nelson-lago)
+24/09/2021 | 7 | Contribuição em FLOSS 1: __Documentação__ | --
+01/10/2021 | 8 | Acompanhamento das atividades / palestra CBSOFT | --
+08/10/2021 | 9 | Apresentação dos projetos | --
+15/10/2021 | 10 | [Aspectos Sociais de FLOSS](keynotes/talks.md#aspectos-sociais-de-floss) | [Antonio Terceiro](keynotes/talks.md#antonio-terceiro)
+22/10/2021 | 11 | Acompanhamento das atividades e dúvidas | --
+29/10/2021 | 12 | [Gerência de projetos FLOSS: DevOps](keynotes/talks.md#gerência-de-projetos-floss-e-devops) | [Prof. Paulo Meirelles (UFABC/USP)](keynotes/talks.md#paulo-meirelles) e [Leonardo Leite (USP)](keynotes/talks.md#leonardo-leite)
+05/11/2021 | 13 | Contribuição em projetos FLOSS 4: __Triagem de Bugs__ | --
+12/11/2021 | 14 | [Issues em Projetos FLOSS](keynotes/talks.md#issues-em-projetos-de-software-livre) | [Prof. Rodrigo Rocha Gomes e Souza (UFBA)](keynotes/talks.md#rodrigo-rocha-gomes-e-souza)
+19/11/2021 | 15 | Contribuição em projetos FLOSS 5: __Resolução de Bugs__ | --
+26/11/2021 | 16 | Ecossistemas de Software Livre: KDE (kde.org) | 13h-14:45h: Apresentação de trabalhos (I). 15h: [Prof. Sandro Andrade (IFBA)](keynotes/talks.md#sandro-andrade)
+03/12/2021 | 17 | Encerramento | Apresentação de trabalhos (II) e Confraternização.
 
 ## Leituras 
 
@@ -81,9 +92,8 @@ Crônica da história do movimento _open source_ na visão de alguns 'atores' e 
 + [Producing Open Source Software by Karl Fogel](https://producingoss.com/) e [videos](https://producingoss.com/#presentations)
 + Free for All by Peter Wayner
 + Free as in Freedom by Sam Williams
-+ Open Sources by Chris DiBona and Sam Ockman
++ [Open Sources](https://www.oreilly.com/library/view/open-sources/1565925823/) by Chris DiBona and Sam Ockman
 
-### 
 
 ### Leituras de primavera 
 
@@ -91,3 +101,4 @@ Crônica da história do movimento _open source_ na visão de alguns 'atores' e 
 + [Outras primaveras](https://opensource.com/resources/ebooks)
 + 2021
    + [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#summary)
+   + [The Open Source Way](https://www.theopensourceway.org/book/)

@@ -1,0 +1,75 @@
+## Reconhecimento Técnico 
+
+### Parte I - Descrição do projeto
+
+**Nome**: TEAMMATES 
+
+
+**Sites**:
+
+- Website:
+- Repositório: https://teammatesv4.appspot.com/web/front/home
+
+
+**Descrição**: 
+É uma ferramenta online gratuita para gerenciar avaliações entre alunos. É fornecido como um serviço baseado em nuvem para educadores e alunos. 
+É usado por centenas de universidades em todo o mundo. 
+
+
+### Parte II - Reconhecimento Inicial
+- Há quanto tempo o projeto existe? Descreva brevemente o histórico do projeto.
+ 
+     O projeto foi criado em maio de 2014 e desde então foram lançadas 232 releases. A última versão é a 8.2.0 lançada em 25/09/21.
+
+Qual a licença do projeto?
+
+    GPL 2.0
+
+Qual o tamanho do projeto (linhas de código, classes)?
+
+**Release 8.2.0**
+
+:---------: | :----------:
+Arquivos | 2082
+Linhas | 255444
+Blanks | 29034
+Comentários | 20197
+LOC | 206213
+
+	O projeto possui 83977 classes em Java e 495 colaboradores.
+  
+O tamanho do projeto tem crescido nas últimas versões?
+
+    A primeira release do projeto (4.98) tinha 2609 LOC, enquanto a última (8.2.0) possui 206213. Houve um aumento de 203604 LOC em 7 anos.
+   
+
+**Versão 4.98**
+
+
+:---------: | :--------:
+Arquivos | 25
+Linhas | 3161
+Blanks | 300
+Comentários | 1715
+LOC | 2609
+
+
+Existe atividade recente no projeto?
+
+    Sim, última release (v 8.2.0) o último commit no repositório foram há dois dias (25/09)
+
+
+Existe colaboração de empresas no projeto?
+
+Sim. School of Computing, National University of Singapore (NUS)
+- Centre for Development of Teaching and Learning (CDTL) of NUS
+- Learning Innovation Fund-Technology (LIF-T) initiative of NUS
+- Google 
+- Facebook
+- Jet Brains
+- YourKit LLC
+- SauceLabs
+
+Quais as tecnologias usadas?
+
+Java, HTML, TypeScript, XML, YAML, JavaScript, CSS, Gradle
