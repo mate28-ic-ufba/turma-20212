@@ -1,0 +1,123 @@
+---
+title: "SpotBugs"
+subtitle: "Práticas e reflexões sobre contribuição em FLOSS"
+author: Luana Martins
+date: "Dezembro, 2021"
+output: 
+  beamer_presentation:
+    theme: "Pittsburgh"
+    colortheme: "beaver"
+---
+
+# Quais as principais características do projeto OSS escolhido? 
+
+## ![SpotBugs]("spotbugs_logo.png"){width=20%}
+
+- Realiza a análise estática para identificar bugs em códigos Java.
+
+- Links:
+  - Repo: https://github.com/spotbugs/spotbugs/ 
+  - Website: https://spotbugs.github.io/
+  - User doc: https://spotbugs.readthedocs.io/en/latest/
+  
+  
+## Motivação para a seleção do projeto
+
+- Tecnologias utilizadas:
+  - Desenvolvido na linguagem Java. 
+  - Uso da biblioteca Java Parser para realizar a análise estática. 
+  
+- Suporte a newcomers:
+  - O repositório possui issues com label "good first issue".
+  - Hacktoberfest
+
+# Reconhecimento técnico
+
+## Há quanto tempo o projeto existe?
+
+- Migração do projeto FindBugs 3.0.1 para o SpotBugs 3.1.0. 
+ - FindBugs: 
+   - Criado em Março de 2003 e arquivado em Março de 2015
+   - Repo: https://sourceforge.net/projects/findbugs
+   
+ - SpotBugs: 
+   - Criado em Junho de 2014 e continua ativo. 
+
+## Qual a licença do projeto?
+
+- FindBugs e SpotBugs utilizam a licença LGPL-2.1.
+- Para outros artefatos (e.g., imagens), os projetos utilizam a licença CC BY-NC-SA. 
+
+## Qual o tamanho do projeto?
+
+- Qtde de linhas: 188576
+- Qtde de classes: 4565
+- Qtde de contribuidores: 116
+- Qtde de forks: 405
+- Qtde de estrelas: 2.5K
+
+Versão | # Classes | # Linhas | # Métodos
+:---:  | :---:     |:---:     | :---:
+1.3.9  | 3713      | 148677   | 14642
+2.0.0  | 4478      | 201910   | 19742
+**3.0.1**  | **4842**      | **224727**   | **20512**
+**3.1.0**  | **4465**      | **186344**   | **17548**
+4.3.0  | 4548      | 187723   | 17793
+4.4.1  | 4565      | 188576   | 17858
+
+# Documentação do projeto
+
+## Quais os tipos de documentação existentes?
+
+- Usuário: 
+  - https://spotbugs.readthedocs.io/en/stable/
+- Contribuidores:
+  - https://github.com/spotbugs/spotbugs/tree/master/.github
+  
+## Como contribuir com a documentação do projeto?
+
+![Guidelines para contribuir com a documentação]("spotguideline.png"){width=100%}
+
+## Minha contribuição
+
+![Guidelines para contribuir com a documentação^[PR: https://github.com/spotbugs/spotbugs/pull/1758]]("atividadeDoc.png"){width=90%}
+
+
+# Internacionalização do projeto
+
+## O projeto está preparado para a internacionalização?
+
+- Há partes do projeto preparadas para tradução ("internationalization" - I18N)?
+  - Documentação do usuário ReadTheDocs - Inglês e Japonês
+  
+- Há uma equipe fazendo tradução para Português do Brasil (pt-br)?
+  - Sim. Sempre que surgir alguma modificação na documentação, serei marcada.
+
+## Minha contribuição
+
+![Criação de um ReadTheDocs independente^[Discussão: https://github.com/spotbugs/spotbugs/discussions/1786]]("discussion.png"){width=90%}
+
+## Minha contribuição
+
+![Tradução de arquivos^[https://github.com/spotbugs/spotbugs/pull/1796]]("commit.png"){width=90%}
+
+## Minha contribuição
+
+![Criação de um ReadTheDocs independente^[RTD [PT-BR]: https://spotbugs.readthedocs.io/pt_BR/latest/maven.html]]("readDocs.png"){width=90%}
+
+# Issue tracker
+
+## Como seu projeto utiliza "issue tracker"?
+
+- Qual a ferramenta de issue tracker usada em seu projeto?
+  - As issues ficam no repositório do SpotBugs no GitHub.
+- Qual o número de issues: 
+  - Total: 810
+  - Abertas: 393
+  - Resolvidas: 417
+- Em 2021:
+  - Total: 24
+  - Abertas: 14
+  - Resolvidas: 10
+
+# Valeu a pena?
