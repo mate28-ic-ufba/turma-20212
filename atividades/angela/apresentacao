@@ -1,0 +1,64 @@
+---
+marp: true
+theme: gaia
+_class: lead
+paginate: true
+backgroundColor: #fff
+output: powerpoint_presentation
+
+<!-- Isso é apenas uma tentativa de usar o markdown -->
+
+---
+
+#**Apresentação do MATE28 2021.2**#
+
+#Aluna: Angela Peixoto Santana#
+
+---
+
+#Roteiro
+
+* Apresentação
+
+* Projeto
+
+* Experiência
+
+* Conclusão
+
+---
+
+#Apresentação
+
+Diferente de apenas fazer comits no git, esse curso ajudou a entender o que o git traz de benefícios quando utiliza a ferramenta de uma forma correta. 
+
+Durante as aulas procurei por um projeto que utilizo ele na documentação de codigo que é o DOXYGEN. 
+
+---
+
+#DOXYGEN 
+
+Doxygen é a ferramenta padrão de fato para gerar documentação de fontes C ++ anotadas, mas também oferece suporte a outras linguagens de programação populares, como C, Objective-C, C #, PHP, Java, Python.
+Ele pode gerar um navegador de documentação on-line (em HTML) e / ou um manual de referência off-line (em LaTeX) a partir de um conjunto de arquivos de origem documentados. Também há suporte para geração 
+de saída em páginas de manual RTF (MS-Word), PostScript, PDF com hiperlink, HTML compactado, DocBook e Unix. A documentação é extraída diretamente das fontes, o que torna muito mais fácil manter a documentação consistente com o código-fonte.
+
+Github: https://github.com/doxygen/doxygen
+
+---
+
+#Experiência
+
+Diferentemente em ser apenas um usuário que realiza comits, o curso deu uma visão bem ampla de como aproveitar os benefícios oferecidos pela ferramenta. 
+A criação de tags e de reabertura de uma issue pode ajudar a identificar problemas de um projeto, auxliando inclusive da confecção de um A3. 
+Particularmente após conhecer melhor o git, incentivei também a todos os meus alunos a utilizarem a ferramenta.
+
+---
+
+#Conclusão
+
+Atualmente o git é a ferramenta de GCS mais utilizada no mundo. Me transformei de apenas uma simples usuária de commits com os ensinamentos aqui transmitidos. 
+Ainda tentei em fazer uma apresentação utilizando o markdown
+
+---
+ 
+ 
