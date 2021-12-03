@@ -1,4 +1,4 @@
-#Atividade sobre a Palestra do KDE de Sandro Andrade.
+# Atividade sobre a Palestra do KDE de Sandro Andrade.
 
 O KDE fez 25 anos de lançamento (KDE 1.0 1998).
 
