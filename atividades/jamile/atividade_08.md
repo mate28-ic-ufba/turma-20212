@@ -61,14 +61,13 @@ https://github.com/musescore/MuseScore
 ---
 # A Experiência
 
-- Contribuições
-    - Tradução documentação | Tradução software
-Home: https://musescore.org/pt-br
-Nova partitura: https://musescore.org/pt-br/node/278622
-Entrada de notas: https://musescore.org/pt-br/node/278615
-MuseScore para Coro: https://musescore.org/pt-br/choir
-Musescore para piano: https://musescore.org/pt-br/piano
-E outras...
+- Contribuições: Tradução documentação | Tradução software
+    - Home: https://musescore.org/pt-br
+    - Nova partitura: https://musescore.org/pt-br/node/278622
+    - Entrada de notas: https://musescore.org/pt-br/node/278615
+    - MuseScore para Coro: https://musescore.org/pt-br/choir
+    - Musescore para piano: https://musescore.org/pt-br/piano
+    - E outras...
 
 
 ---
