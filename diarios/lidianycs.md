@@ -70,6 +70,15 @@ Ainda nao resolvi nenhuma _issue_ no projeto. As _goodfirstissues_ são selecion
 
 
 ## 12/11/21
-+Palestra com o prof Rodrigo sobre controle de issues.
++ Palestra com o prof Rodrigo sobre controle de issues.
 Apresentação do bugzilla, discussão sobre abaertura e controle de issies e acompanhamento de bugs.
 Foi abordado o topico de privacidade dos dados em relação a utilização do GitHub e a importância de usar ferramentas para controle de bugs.
+
+## 26/11/21
++ Palestra cpm Sandro Andrade sobre KDE e Plasma.
+
+## 29/11/21
++ Traduzi mais algumas frases no projeto do Ethereum. Já estou familizarizada com o Crowdin então a atividade está mais rápida. Fiz ~1500palavras e solicitei um POAP no grupo do Discord.  
+
+## 03/12/21
++ Encerramento da disciplina, apresentação com fechamento das atividades realizadas. Acredito que a disciplina foi bastante satisfatória e aprendi muita coisa nova sobre FLOSS, Github e colaboração com a comunidade open source. Espero poder realizar contribuições maiores futuramente.
