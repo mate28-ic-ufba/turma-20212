@@ -40,3 +40,9 @@ Atualmente, eu estou um pouco distante da área de programação e mais voltado 
 ## Semana de 19/11/21
 - Passei um tempo sem computador. A placa mãe dele pifou. Consegui uma usada para não arcar com o valor de um computador novo.
 - Fiz a atividade 7.
+
+## 26/11/21
+ - Tivemos uma palestra sobre o KDE. Achei muito interessante por eu já ter usado o ambiente gráfico. COnseguir entender a posição deles perante o mercado.
+
+# 03/12/21
+ - Apresentação final da disciplina. Chris pediu para fazer um slide em Markdown. Deu um certo trabalho para fazer... ele não ficou bom não, mas o pessoal me ajudou antes do início das apresentações e conseguir deixar ele um pouco melhor.
