@@ -7,4 +7,4 @@ A comunidade KDE tem como objetivo providenciar um ambiente que ofereça os apli
 
 Durante a palestra Sandro mostrou os eventos os quais particou por Todo Brasil destacando a forçça dessa comunidade.
 
-Eu acredito que a comunidade KDE tende a crescer muito ainda no Brasil e no mundo e seus benefícios para a tecnologia são de suma importância, com destaque para universo de Sofeware Livre.
+Eu acredito que a comunidade KDE tende a crescer muito ainda no Brasil e no mundo e seus benefícios para a tecnologia são de suma importância, com destaque para universo de Software Livre.
