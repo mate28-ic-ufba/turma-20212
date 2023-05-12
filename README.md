@@ -1,8 +1,14 @@
 `Baseado em [MATA26 - Tópicos em Sistemas Computacionais IV](https://disciplinas.dcc.ufba.br/MATA26.WebHome)`
 
 # MATE28 - Tópicos em Engenharia de Software IV
+**Tema:** Práticas e Reflexões sobre Contribuição em Projetos de Software Livre
+* Sobre o curso: 3 créditos, 51 horas, às sexta-feiras, 13h (não-presencial)
 
-**Foco:** Práticas e Reflexões sobre Contribuição em Projetos de Software Livre
+* Docentes
+   * Profa. Dra. Christina von Flach, Instituto de Computação Sala 212 (email:flach@ufba.br)
+   * Daniela Feitosa (estagiária)
+
+## Descrição 
 
   * [Ementa](#ementa)
   * [Programa](#programa)
@@ -15,6 +21,15 @@
     + [Leituras de primavera](#leituras-de-primavera)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+## Objetivos 
+
+Ao final do curso, o estudante deve ser capaz de:
+- Conhecer os conceitos fundamentais relacionados a software livre; 
+- Compreender o modelo de desenvolvimento de software livre e suas boas práticas (documentação, tradução, resolução de bugs);
+- Caracterizar um projeto de software livre de pequeno porte de um domínio específico (livre escolha do estudante);
+- Aplicar boas práticas em atividades relacionadas ao projeto escolhido;
+- Desejável, mas não obrigatório: Engajar-se e contribuir em projeto de software livre escolhido pelo estudante.
 
 ## Ementa
 
@@ -33,13 +48,13 @@ Conceitos básicos de FLOSS, aspectos econômicos e legais, organização social
 
 ## Métodos
 
-- Aulas síncronas, invertidas, com (pré-) leitura e discussão durante os encontros semanais.
+- Aulas síncronas, com (pré-) leitura e discussão durante os encontros semanais.
 - Mini-palestras (30 a 45 minutos) com brasileiras/os da comunidade FLOSS, seguidas por perguntas e discussões.
-- Engajamento e contribuição em projeto FLOSS escolhido pelo estudante, com tutoria.
-- Uso contínuo da plataforma GitHub para mediar atividades
-- Diários e apresentações _stand-up_ 
+- Caracterização (e eventual contribuição, com tutoria) de projeto FLOSS escolhido pelo estudante.
+- Uso contínuo da plataforma GitHub para mediar atividades.
+- Uso de Diários e apresentações _stand-up_.
 
-## Atividades e Avaliação
+## Atividades 
 
 - Participação nas aulas síncronas (sextas-feiras, 13h - 15:45h)
 - Elaboração de perguntas sobre o tema das mini-palestras (pré)
@@ -49,6 +64,13 @@ Conceitos básicos de FLOSS, aspectos econômicos e legais, organização social
   - Diários 
 - Apresentação contínua e compartilhamento com a turma da experiência com o FLOSS escolhido com a turma
   - Relatório/stand-up
+
+### Avaliação
+
+- Exercícios (25%)
+- Caracterização inicial do projeto escolhido (20%)
+- Diários com relatos das atividades realizadas (35%)
+- Apresentação final sobre a experiência com o projeto escolhido (20%)
 
 ## Calendário da UFBA
 
